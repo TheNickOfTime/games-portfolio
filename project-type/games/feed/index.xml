@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Game &#8211; Nick Cunningham</title>
+	<atom:link href="http://192.168.1.2/project-type/games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Game Designer</description>
+	<lastBuildDate>Fri, 17 Jul 2020 01:28:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<title>Game &#8211; Nick Cunningham</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A Thief&#8217;s Tale</title>
+		<link>/portfolio/a-thiefs-tale/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Sun, 10 Feb 2019 07:04:22 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=720</guid>
+
+					<description><![CDATA[A Thief&#8217;s Tale is a semester-long collaborative project that was worked on by a group of my peers as a class. Primarily I worked on the second area of the game, called &#8220;The Courtyard.&#8221; I worked with Garry McGee to completely rework this area from the ground up, from what it had been from the ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="720" class="elementor elementor-720 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-c776efa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c776efa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63c32df" data-id="63c32df" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d1585ac elementor-widget elementor-widget-text-editor" data-id="d1585ac" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>A Thief&#8217;s Tale is a semester-long collaborative project that was worked on by a group of my peers as a class. Primarily I worked on the second area of the game, called &#8220;The Courtyard.&#8221; I worked with Garry McGee to completely rework this area from the ground up, from what it had been from the previous semester. I am mostly satisfied with the improvements that we made.</p><p>Unfortunately this project was extremely strained for resources, namely programming help, to lay the foundation systems of the game. As a result my focus was often shifted away from design in order to build a particular system, fix a game-breaking bug or what have you. The result is that this is not my most refined work, but nonetheless I am still proud of how I and the rest of my team persevered through the difficulties and challenges we faced throughout the semester.</p><p>This was overall a great learning experience for me. I only wish that my team and I had just a bit more time and resources to make this game better!</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-747bf5a elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="747bf5a" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/_2Ox1R7arms&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fart-ernity</title>
+		<link>/portfolio/fart-ernity/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Sat, 09 Feb 2019 09:15:12 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=714</guid>
+
+					<description><![CDATA[Fart-ernity was an entry into the GMTK Game Jam 2018. The premise was to make a game of a certain genre while having it lack a signature mechanic of that genre. Garry McGee, Elijah Mazur and myself decided to make a stealth genre game without any physical objects to hide behind. The theme we applied ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="714" class="elementor elementor-714 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0e7a2af elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0e7a2af" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-320877f" data-id="320877f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-be4ceb0 elementor-widget elementor-widget-text-editor" data-id="be4ceb0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Fart-ernity was an entry into the GMTK Game Jam 2018. The premise was to make a game of a certain genre while having it lack a signature mechanic of that genre.</p><p><a href="https://garrymcgee.com/">Garry McGee</a>, <a href="https://www.elijahmazur.com/">Elijah Mazur</a> and myself decided to make a stealth genre game without any physical objects to hide behind. The theme we applied was a frat party setting, but you as a party-goer is overflowing with gas. Depending on what kind of fart you have coming down the pipes, you need to utilize various distractions in the room to cover up your fart. If you choose ineffecive distractions, you &#8220;clout&#8221; goes down. When you run out of clout, you get kicked out of the party!</p><p>This was a fun and silly project to work on. It is pretty simple, but it is fun to play for a while. Mission accomplished.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-35435ac elementor-align-center elementor-widget elementor-widget-button" data-id="35435ac" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://aeuron.itch.io/farternity" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+									<i class="fa fa-external-link" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Itch.io Page</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e35bc8b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="e35bc8b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-07e4dcb elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="07e4dcb" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/8UtzKK0Qm9Y&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Diamond Heist</title>
+		<link>/portfolio/diamond-heist/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 16:17:04 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=91</guid>
+
+					<description><![CDATA[A stealth VR experience for the HTC Vive. Use tools and quick thinking to escape traps and puzzles unoticed.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-672107e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="672107e9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f138f98" data-id="1f138f98" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-74573b4 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="74573b4" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;vimeo&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="vimeo Video Player" src="https://player.vimeo.com/video/235202388?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-03c6aea elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="03c6aea" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_01-768x406.jpg" alt="NickCunningham_DiamondHeist_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_02-768x406.jpg" alt="NickCunningham_DiamondHeist_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_03-768x406.jpg" alt="NickCunningham_DiamondHeist_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_04-768x406.jpg" alt="NickCunningham_DiamondHeist_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_05-768x406.jpg" alt="NickCunningham_DiamondHeist_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_06-768x406.jpg" alt="NickCunningham_DiamondHeist_06" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-68cc36a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="68cc36a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3223b5f elementor-align-center elementor-widget elementor-widget-button" data-id="3223b5f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_Build.zip" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Download</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

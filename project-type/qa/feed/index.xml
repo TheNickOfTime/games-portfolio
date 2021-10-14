@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Quality Assurance &#8211; Nick Cunningham</title>
+	<atom:link href="http://192.168.1.2/project-type/qa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Game Designer</description>
+	<lastBuildDate>Fri, 17 Jul 2020 01:23:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<title>Quality Assurance &#8211; Nick Cunningham</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Last of Us Part II</title>
+		<link>/portfolio/the-last-of-us-part-ii/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2020 18:58:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=832</guid>
+
+					<description><![CDATA[Introduction For my first job out of college, I was fortunate enough to get a position in the QA department at Naughty Dog working on The Last of Us Part II. I joined the project in the last year of production, so I really had to hit the ground running. Overall working on this game ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="832" class="elementor elementor-832" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1dd35b97 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1dd35b97" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2c4b1ac3" data-id="2c4b1ac3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6508bb80 elementor-widget elementor-widget-heading" data-id="6508bb80" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Introduction</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-23a9d705 elementor-widget elementor-widget-text-editor" data-id="23a9d705" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span id="docs-internal-guid-661c4e84-7fff-fcec-552d-b533a14e2b87"><span style="font-size: 12pt; font-family: Arial; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">For my first job out of college, I was fortunate enough to get a position in the QA department at Naughty Dog working on The Last of Us Part II. I joined the project in the last year of production, so I really had to hit the ground running. Overall working on this game was an amazing opportunity, I was able to work with nearly every department in the studio. It was an amazing experience and I learned so much from the talented people I worked with every day.</span></span></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4ef64f27 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="4ef64f27" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1920" height="1080" src="/wp-content/uploads/T2_Titlescreen.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/T2_Titlescreen.png 1920w, /wp-content/uploads/T2_Titlescreen-300x169.png 300w, /wp-content/uploads/T2_Titlescreen-1024x576.png 1024w, /wp-content/uploads/T2_Titlescreen-768x432.png 768w, /wp-content/uploads/T2_Titlescreen-1536x864.png 1536w, /wp-content/uploads/T2_Titlescreen-738x415.png 738w, /wp-content/uploads/T2_Titlescreen-1458x820.png 1458w, /wp-content/uploads/T2_Titlescreen-996x560.png 996w" sizes="(max-width: 1920px) 100vw, 1920px" data-attachment-id="845" data-permalink="/portfolio/the-last-of-us-part-ii/t2_titlescreen/" data-orig-file="/wp-content/uploads/T2_Titlescreen.png" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="T2_Titlescreen" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/T2_Titlescreen-300x169.png" data-large-file="/wp-content/uploads/T2_Titlescreen-1024x576.png" />														</div>
+						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-63493889 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="63493889" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5ccc9fcd" data-id="5ccc9fcd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-da5601f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="da5601f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-19148d44 elementor-view-default elementor-widget elementor-widget-icon" data-id="19148d44" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-gamepad" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-25cb38ef elementor-widget elementor-widget-heading" data-id="25cb38ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">My Roles</h2>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-4f126317 elementor-widget elementor-widget-spacer" data-id="4f126317" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-114af974 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="114af974" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68bfb989" data-id="68bfb989" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7002a062 elementor-view-default elementor-widget elementor-widget-icon" data-id="7002a062" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-map"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-72caa239 elementor-widget elementor-widget-heading" data-id="72caa239" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Level Area Contact</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-720bc0b8 elementor-widget elementor-widget-text-editor" data-id="720bc0b8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>A few weeks after getting hired I was assigned to be a point of contact for two of the larger levels in the game, along with a partner. My responsibilities encompassed making sure the levels were stable with no major bugs, completing test cases to catch large amounts of smaller bugs, as well as completing various passes &amp; other routine checks throughout the week. Additionally I was responsible for responding to any requests/callouts from devs working on the level. This included things such as tweaking nav mesh, tagging object surfaces, or simply just logging a bug someone caught while playing.</p><p>This was an amazing opportunity to work directly with the design team, as well as the people from other departments working on these levels. It was extremely inspiring and educational to get to see some of the best of the best in action.</p><p>Here are the chapters that the two levels encompass:</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-955d76b elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="955d76b" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_CapitolHill.jpg" alt="Capitol Hill" /><figcaption class="elementor-image-carousel-caption">Capitol Hill</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_Channel13.jpg" alt="Channel 13" /><figcaption class="elementor-image-carousel-caption">Channel 13</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_TheTunnels.jpg" alt="The Tunnels" /><figcaption class="elementor-image-carousel-caption">The Tunnels</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_2425Constance.jpg" alt="2425 Constance" /><figcaption class="elementor-image-carousel-caption">2425 Constance</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_PushingInland.jpg" alt="Pushing Inland" /><figcaption class="elementor-image-carousel-caption">Pushing Inland</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_TheResort.jpg" alt="The Resort" /><figcaption class="elementor-image-carousel-caption">The Resort</figcaption></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/T2_Screenshot_TheBeach.jpg" alt="The Beach" /><figcaption class="elementor-image-carousel-caption">The Beach</figcaption></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-05a2a43 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="05a2a43" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-159a0ff" data-id="159a0ff" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-a48a1f6 elementor-widget elementor-widget-spacer" data-id="a48a1f6" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-de7ed70 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="de7ed70" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21f0d86" data-id="21f0d86" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4836096 elementor-view-default elementor-widget elementor-widget-icon" data-id="4836096" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-bahai"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b3319bb elementor-widget elementor-widget-heading" data-id="b3319bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Particles Point of Contact</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8f85c6e elementor-widget elementor-widget-text-editor" data-id="8f85c6e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>In addition to being responsible for two levels, at the start of 2020 I was made the point of contact for all particles/vfx related issues. My responsibilities included handling all incoming requests from the particles team, as well as performing routine passes on features as they were implemented. A lot of the hard work had already been done by the previous point of contact, but there was still a lot of work left to do!</p><p>This was also an amazing opportunity to work with the particles department, another team of incredibly talented individuals. This area of testing seemed to be something many in QA weren’t as familiar or comfortable with, so it was empowering to become a source of knowledge and help for my coworkers coming across particle issues in their levels.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-671bf0a elementor-widget elementor-widget-image" data-id="671bf0a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="1920" height="1080" src="/wp-content/uploads/T2_Screenshot_Partiles.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/T2_Screenshot_Partiles.jpg 1920w, /wp-content/uploads/T2_Screenshot_Partiles-300x169.jpg 300w, /wp-content/uploads/T2_Screenshot_Partiles-1024x576.jpg 1024w, /wp-content/uploads/T2_Screenshot_Partiles-768x432.jpg 768w, /wp-content/uploads/T2_Screenshot_Partiles-1536x864.jpg 1536w, /wp-content/uploads/T2_Screenshot_Partiles-738x415.jpg 738w, /wp-content/uploads/T2_Screenshot_Partiles-1458x820.jpg 1458w, /wp-content/uploads/T2_Screenshot_Partiles-996x560.jpg 996w" sizes="(max-width: 1920px) 100vw, 1920px" data-attachment-id="846" data-permalink="/portfolio/the-last-of-us-part-ii/the-last-of-us-part-ii_20200707202429/" data-orig-file="/wp-content/uploads/T2_Screenshot_Partiles.jpg" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;PlayStation(R)4&quot;,&quot;caption&quot;:&quot;The Last of Us\u2122 Part II_20200707202429&quot;,&quot;created_timestamp&quot;:&quot;1594153469&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;The Last of Us\u2122 Part II_20200707202429&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/T2_Screenshot_Partiles-300x169.jpg" data-large-file="/wp-content/uploads/T2_Screenshot_Partiles-1024x576.jpg" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
