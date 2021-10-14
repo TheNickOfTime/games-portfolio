@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Prototype &#8211; Nick Cunningham</title>
+	<atom:link href="http://192.168.1.2/project-type/prototypes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Game Designer</description>
+	<lastBuildDate>Fri, 17 Jul 2020 01:29:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<title>Prototype &#8211; Nick Cunningham</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kroc Center</title>
+		<link>/portfolio/kroc-center/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Sat, 09 Feb 2019 08:02:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=693</guid>
+
+					<description><![CDATA[For this project, we were asked to prototype a game comissioned by the Kroc Center in San Francisco. The Kroc Center was looking for a game of some kind which would prompt youths to engage with their physical community more and partake in the betterment of it too. We came up with a simple game ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="693" class="elementor elementor-693 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-e738db7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e738db7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-056e4cd" data-id="056e4cd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b30c88a elementor-widget elementor-widget-text-editor" data-id="b30c88a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>For this project, we were asked to prototype a game comissioned by the Kroc Center in San Francisco. The Kroc Center was looking for a game of some kind which would prompt youths to engage with their physical community more and partake in the betterment of it too.</p><p>We came up with a simple game that would teach players the fundamentals of proper waste disposal, as well as how to confront problems related to improper waste disposal in their community.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e764ad9 elementor-widget elementor-widget-html" data-id="e764ad9" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>.embed-container { position: relative; padding-bottom: 59.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://docs.google.com/presentation/d/e/2PACX-1vS3CEKkfFEZnrODeRQhs4HHyynxu0Lt5ShASJbC_pNgjIG8dhs19ww_gVUZva5Y8RwrojsGNfvM2Wud/embed?start=false&loop=false&delayms=60000' frameborder='0' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9d77ee1 elementor-widget elementor-widget-text-editor" data-id="9d77ee1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The class this was for ran each project as a competition, and unfortunately this pitch did not win first place, but instead took second in the class.</p><p>The first place winner&#8217;s pitch was sort of a building dress up type of game. The idea was to encourage children to partake in community service. There isn&#8217;t much gameplay, and it&#8217;s not too exciting, but I imagine smaller kids would find some joy in this type of game.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d48ea9e elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="d48ea9e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/gJHz77c7iAY&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dungeon of Greyness</title>
+		<link>/portfolio/dungeon-of-greyness/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 08:28:34 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=637</guid>
+
+					<description><![CDATA[Introduction &#8220;Dungeon of Greyness&#8221; is a game prototype, with a focus on combat design, that I built from the grround up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week. Using the ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="637" class="elementor elementor-637" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-519f1709 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="519f1709" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-76bb53f5" data-id="76bb53f5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2a6e004e elementor-widget elementor-widget-heading" data-id="2a6e004e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Introduction</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-28958a0c elementor-widget elementor-widget-text-editor" data-id="28958a0c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>&#8220;Dungeon of Greyness&#8221; is a game prototype, with a focus on combat design, that I built from the grround up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week.</p>
+<p>Using the Unity Engine, I designed and scripted (C#) everything in this project. This extends from the levels, the core gameplay, player combat &amp; enemy functionality, to all the underlying systems that make the game work. Virtually all art and music was borrowed/copied in order to focus on the mechanical aspects of the game.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-830b667 elementor-widget elementor-widget-image-carousel" data-id="830b667" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_01.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_02.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_03.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_04.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_05.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_06.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_07.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_08.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_09.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_10.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_11.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
+																</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7ce4fb21 elementor-widget elementor-widget-spacer" data-id="7ce4fb21" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7cbcf06a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7cbcf06a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7e2b88c6" data-id="7e2b88c6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-2fddf8f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fddf8f4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5ecd0a81" data-id="5ecd0a81" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2d25e8a2 elementor-view-default elementor-widget elementor-widget-icon" data-id="2d25e8a2" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-gamepad" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-16cad9b1 elementor-widget elementor-widget-heading" data-id="16cad9b1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Challenge</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-60b68daf elementor-widget elementor-widget-text-editor" data-id="60b68daf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Since this project was going to be a semester-long work, choosing what to do was particularly difficult. The only real guidelines for my project were that it had to be 2D and the combat had to be based on an existing, good quality game. Keeping scope in check would be difficult, as it is easy to plan to do too much when given a large amount of time.</p><p>An additional challenge of this project being semester-long was writing and maintaining a clean and clear codebase. This was not a requirement set by the class, but more of a personal necessity to maintain sanity over the long-term.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-425d078c" data-id="425d078c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5a4d6799 elementor-view-default elementor-widget elementor-widget-icon" data-id="5a4d6799" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-check" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6b42e3d0 elementor-widget elementor-widget-heading" data-id="6b42e3d0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-20dfe71e elementor-widget elementor-widget-text-editor" data-id="20dfe71e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>My initial concept was a game inspired by the combat of <em>Hyper Light Drifter</em>. Unfortunately, I wasn&#8217;t able to find a proper character sprite set, so I decided I would hand draw each frame from <em>Hyper Light Drifter</em>. This was dumb and took up so much time, however, I did leave this project with a newfound appreciation for the craft of pixel art.</p><p>To keep the scope manageable, I landed on the concept of having individual, smaller rooms with between 1 to 3 waves of enemies each. Progressing through the rooms would gradually introduce the player to different and harder enemies. This would allow me to create as many or as few levels as I wanted/could, without having to cut content.</p><p>I made a limited, but diverse set of enemies. There are two grunt-level melee enemies, one harder &#8220;Lieutenant&#8221; level melee enemy, and a tricky ranged enemy. In addition to these standard enemies, there is a final boss that possesses all the traits of these enemies plus more.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-6ff6e687 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6ff6e687" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a9674f6 elementor-widget elementor-widget-text-editor" data-id="2a9674f6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">My combat project ended up as <em>Dungeon of Greyness</em>. It is a fairly complete, but small prototype that holds a reasonable amount of content (~15 &#8211; 20 minutes for new players) and progression. You play as a traveler who fights through seven high-tension rooms filled with aggressive enemies. You are aided by a stranger with upgrades, but little else.</span></p><p><span style="font-weight: 400;">Overall this project was a fantastic experience, both personally and educationally. I was finally able to spend more than a few weeks on a project and focus on refining gameplay in a meaningful way. I learned a ton as I went along and thankfully I wrote some of the cleanest code I have so far which made evolving the game a breeze. The feedback I have received from playtesters has been pretty positive and I am glad people have found it to be an enjoyable experience!</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2368300e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="2368300e" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-662ba488" data-id="662ba488" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4b200bca elementor-widget elementor-widget-spacer" data-id="4b200bca" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6aa41c04 elementor-view-default elementor-widget elementor-widget-icon" data-id="6aa41c04" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-list-ul" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b47f6ce elementor-widget elementor-widget-heading" data-id="b47f6ce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Highlights</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4dd917b elementor-widget elementor-widget-heading" data-id="4dd917b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Player</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c56c15 elementor-widget elementor-widget-text-editor" data-id="2c56c15" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The inspiration for the player combat of this game was </span><i><span style="font-weight: 400;">Hyper Light Drifter</span></i><span style="font-weight: 400;">. This is pretty obvious looking at the character because I straight up hand copied each frame of each animation from some gameplay footage I took of </span><i><span style="font-weight: 400;">HLD</span></i><span style="font-weight: 400;">. I wanted to stay away from this initially, but unfortunately, I found it impossible to find a top-down game sprite-set that had the dynamic and powerful feeling that the animations of </span><i><span style="font-weight: 400;">HLD</span></i><span style="font-weight: 400;"> have.</span></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4e511e13 elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4e511e13" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/CombatDesign_PlayerMovement.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="666" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_playermovement/" data-orig-file="/wp-content/uploads/CombatDesign_PlayerMovement.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_PlayerMovement" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_PlayerMovement-300x169.gif" data-large-file="/wp-content/uploads/CombatDesign_PlayerMovement.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">At a base level, the player has a basic attack that can be chained up to three times, increasing in damage each hit of the combo. Near the start of the game, the player is given the ability to dash. The dash allows the player to be fluid in combat, as well as escape sticky situations since there is an invulnerability window during the dash. Later, the player unlocks two additional upgrades - Super Slash and Super Dash. Super Slash allows the player to hold the attack button to charge an attack that does an impressive amount of damage that ignores shields. Super Dash similarly allows the player to hold the dash button to charge up a dash that both slightly damages as well as momentarily stuns enemies.</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4104f90 elementor-widget elementor-widget-text-editor" data-id="4104f90" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The goal was to make the player feel powerful from the start, but give them more ways to deal damage as the game progressed. It is pretty easy to die, but death is not meant to be punishing in this game. You automatically respawn within a second or two of dying at the start of the room you died in. This allows the player to learn from mistakes and avoid frustrations that come with difficulty.</span></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2e69760 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2e69760" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4d41170 elementor-widget elementor-widget-heading" data-id="4d41170" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Enemies</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-96f5dda elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="96f5dda" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ddab2f6" data-id="ddab2f6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-af47300 elementor-widget elementor-widget-image" data-id="af47300" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="320" height="250" src="/wp-content/uploads/CombatDesign_Slime.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="657" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_slime/" data-orig-file="/wp-content/uploads/CombatDesign_Slime.gif" data-orig-size="320,250" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Slime" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Slime-300x234.gif" data-large-file="/wp-content/uploads/CombatDesign_Slime.gif" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-560a697 elementor-widget elementor-widget-heading" data-id="560a697" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Slime</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a942a97 elementor-widget elementor-widget-text-editor" data-id="a942a97" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The Slime is the most basic enemy of the bunch. It moves quickly, deals a very small amount of melee damage, and on its own, is barely a threat. 2 standard hits can eliminate this weak enemy. In a group, they can quickly overcome the player though.</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-69f8224" data-id="69f8224" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1a802f6 elementor-widget elementor-widget-image" data-id="1a802f6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="240" height="320" src="/wp-content/uploads/CombatDesign_Skeleton.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="662" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_skeleton/" data-orig-file="/wp-content/uploads/CombatDesign_Skeleton.gif" data-orig-size="240,320" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Skeleton" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Skeleton-225x300.gif" data-large-file="/wp-content/uploads/CombatDesign_Skeleton.gif" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-12f909c elementor-widget elementor-widget-heading" data-id="12f909c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Skeleton</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ba9fcb9 elementor-widget elementor-widget-text-editor" data-id="ba9fcb9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The Skeleton is functionally the same as the slime, however, it deals more damage and has more health. These traits make it a bigger threat to the player than the slime, but they become a pretty minor threat after the first few. This is intentional.</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-41ab676 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41ab676" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ddf7fa5" data-id="ddf7fa5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d704d7b elementor-widget elementor-widget-image" data-id="d704d7b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="420" height="420" src="/wp-content/uploads/CombatDesign_Knight.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="659" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_knight/" data-orig-file="/wp-content/uploads/CombatDesign_Knight.gif" data-orig-size="420,420" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Knight" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Knight-300x300.gif" data-large-file="/wp-content/uploads/CombatDesign_Knight.gif" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0c192e3 elementor-widget elementor-widget-heading" data-id="0c192e3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Knight</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9fe0328 elementor-widget elementor-widget-text-editor" data-id="9fe0328" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The Knight, unlike the Slime or Skeleton, is a bit more intelligent. Since the knight has a shield, it will block all attacks from the front. The player has to methodically approach this enemy, either waiting for or creating an opening to dash behind it and get a few hits in. This enemy hits very hard, so it is important for the player to keep on their toes. Fortunately, it moves pretty slow and the attacks have pretty clear indicators they are coming.</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-f08c3ed" data-id="f08c3ed" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-66d3306 elementor-widget elementor-widget-image" data-id="66d3306" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="566" height="566" src="/wp-content/uploads/CombatDesign_Wizard.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="660" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_wizard/" data-orig-file="/wp-content/uploads/CombatDesign_Wizard.gif" data-orig-size="566,566" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Wizard" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Wizard-300x300.gif" data-large-file="/wp-content/uploads/CombatDesign_Wizard.gif" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0f8e2b4 elementor-widget elementor-widget-heading" data-id="0f8e2b4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Wizard</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-13696cf elementor-widget elementor-widget-text-editor" data-id="13696cf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The wizard is the most unique enemy and perhaps the hardest. It has a ranged attack set, but rather than firing projectiles, the Wizard spawn hazardous tile patterns around the player. The player has a relatively small window to decide if they should stay put, move a bit, or dash far away. Rather than walk around, this enemy teleports from position to position, this can make it difficult to eliminate this enemy quickly. This enemy exists to disrupt the more predictable melee enemies.</span></p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-7aa3f2e elementor-widget elementor-widget-image" data-id="7aa3f2e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="420" height="420" src="/wp-content/uploads/CombatDesign_BossKnight.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="661" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_bossknight/" data-orig-file="/wp-content/uploads/CombatDesign_BossKnight.gif" data-orig-size="420,420" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_BossKnight" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_BossKnight-300x300.gif" data-large-file="/wp-content/uploads/CombatDesign_BossKnight.gif" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3f24d44 elementor-widget elementor-widget-heading" data-id="3f24d44" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Boss Knight</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3725693 elementor-widget elementor-widget-text-editor" data-id="3725693" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">The Boss Knight is in appearance a palette swap of the regular Knight, however, it has a few different tricks up its sleeve. Unsurprisingly it has the largest health pool of all enemies and does the heaviest damage. It possesses melee attacks inherited from the Slime, Skeleton, and Knight, as well as the Knights shield blocking trait. It can also execute ranged attacks inherited from the Wizard and teleport away if it gets hit too many times in a row. This boss enemy also has the unique ability to spawn grunt level enemies around it to distract the player.</span></p><p><span style="font-weight: 400;">All of these traits make this enemy very dangerous. These different traits are introduced in 3 different states based on the boss’s health. Most players will fail at least the first time, but since death is not meant to be punishing, the player can learn the patterns fairly quickly and defeating it is a very rewarding event.</span></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b12923c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="b12923c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-40ab146 elementor-widget elementor-widget-heading" data-id="40ab146" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">World</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c9978ba elementor-widget elementor-widget-text-editor" data-id="c9978ba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><span style="font-weight: 400;">While combat was the focus of this project, I found that the world and level design were deeply integrated into this system. For example, the player cannot swim, so water is a threat &#8211; almost another enemy depending on the situation. Additionally, the size and layout of a room can create obstacles that the enemies do not on their own. Because of this, I took time making each room to be unique in its design and what types of enemies spawn when and where.</span></p><p><span style="font-weight: 400;">Aside from how the world relates to the combat, I wanted the pacing and progression of the world to feel right. Since the general flow of my game was moving room to room, I noticed it felt very tedious to move directly from one combat scenario to another. A solution for this was putting in “transition levels” that lack any combat. These transition levels were also a fun way to add some personality to the game as well as provide the player with some simple side-objectives that do a good job of breaking up gameplay.</span></p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-58b46ce5 elementor-widget elementor-widget-spacer" data-id="58b46ce5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-48e7b902 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="48e7b902" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3305bab3" data-id="3305bab3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5edfe502 elementor-view-default elementor-widget elementor-widget-icon" data-id="5edfe502" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-download" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7621922a elementor-widget elementor-widget-heading" data-id="7621922a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Media</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0efcfae elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0efcfae" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-39d7071" data-id="39d7071" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c6a80a4 elementor-align-right elementor-widget elementor-widget-button" data-id="c6a80a4" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://drive.google.com/open?id=1SfDFLKGJY-mKgDW4A4VHvOuZAO54i5r_" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Download</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-965e5b4" data-id="965e5b4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e78229e elementor-align-left elementor-widget elementor-widget-button" data-id="e78229e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://github.com/TheNickOfTime/Combat-Design" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+									<i class="fa fa-github" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Source</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-632e072 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="632e072" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-94de551" data-id="94de551" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-75ea6651 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="75ea6651" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_01-738x415.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_02-738x415.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_03-738x415.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_04-738x415.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_05-738x415.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_06-738x415.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_07-738x415.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_08-738x415.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_09-738x415.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_10-738x415.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_11-738x415.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cfe009" data-id="cfe009" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1eb71c36 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="1eb71c36" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/KhqVn7GAo8Q&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-1572702b elementor-widget elementor-widget-spacer" data-id="1572702b" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-526ef712 elementor-view-default elementor-widget elementor-widget-icon" data-id="526ef712" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-book" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3358c914 elementor-widget elementor-widget-heading" data-id="3358c914" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Documentation</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0db5c16 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0db5c16" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b648438" data-id="b648438" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1177d68 elementor-widget elementor-widget-image" data-id="1177d68" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/open?id=1gWG3IMhZL9nlaga7oB4JifWtyQcvtFle" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Maps-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="CombatDesign_Thumbnail_Maps" alt="CombatDesign_Thumbnail_Maps" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Level Maps</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2c6b6f2" data-id="2c6b6f2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5cb0f6b elementor-widget elementor-widget-image" data-id="5cb0f6b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/open?id=19xU-8S_QVCzGMU56-2Q01TiSZPCO6Epg" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_BossSpec-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_BossSpec" alt="CombatDesign_Thumbnail_BossSpec" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Boss Spec</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e55be6f" data-id="e55be6f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1225d395 elementor-widget elementor-widget-image" data-id="1225d395" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/open?id=1KNCAYKRwdl88as_Dfg6EomaFrJPRoVCv" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Spreadsheets-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_Spreadsheets" alt="CombatDesign_Thumbnail_Spreadsheets" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Spreadsheets</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6197f03 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6197f03" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b0d76e6" data-id="b0d76e6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f100802 elementor-widget elementor-widget-image" data-id="f100802" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/open?id=1h3nJfbGptL9yxim_emiNviWlEIEr-0H0" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/AttackSheet_Enemies-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="AttackSheet_Enemies" alt="AttackSheet_Enemies" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Enemy Presentation Sheet</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-757e3d4" data-id="757e3d4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fbd4447 elementor-widget elementor-widget-image" data-id="fbd4447" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/open?id=1T4TQspmF_KWiXN1DTk4uIxVxr9U2HEGW" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_AttackSheet_Boss-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="CombatDesign_AttackSheet_Boss" alt="CombatDesign_AttackSheet_Boss" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Boss Presentation Sheet</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-def1d23" data-id="def1d23" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d7db819 elementor-widget elementor-widget-image" data-id="d7db819" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/open?id=1hXHzUocUV6tU30YTXXyaNRz_dYCid-BT" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Sketchbook-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpeg" title="CombatDesign_Thumbnail_Sketchbook" alt="CombatDesign_Thumbnail_Sketchbook" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Original Level Sketches</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Motorball: The Bounty</title>
+		<link>/portfolio/motorball-the-bounty/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Wed, 16 May 2018 01:22:01 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=449</guid>
+
+					<description><![CDATA[Introduction Motorball: The Bounty is a game prototype I created in association with Garry McGee. The goal we had for this project was to create a rough vertical slice capturing what a cyberpunk-esque RPG set in the Battle Angel Alita universe could be like. This prototype focuses on a bounty hunter mission where the player is ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="449" class="elementor elementor-449" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ff97ac elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="0ff97ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d29740" data-id="1d29740" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bac0522 elementor-widget elementor-widget-heading" data-id="bac0522" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Introduction</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9917a31 elementor-widget elementor-widget-text-editor" data-id="9917a31" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p style="text-align: left;">Motorball: The Bounty is a game prototype I created in association with <a style="background-color: #ffffff;" href="http://garrymcgee.com/">Garry McGee</a>. The goal we had for this project was to create a rough vertical slice capturing what a cyberpunk-esque RPG set in the Battle Angel Alita universe could be like. This prototype focuses on a bounty hunter mission where the player is hunting down terrorists plotting an attack on the stadium of the popular sport Motorball.</p><p style="text-align: left;">This project was created in the Unity Engine over the course of about a week. On this project, I worked as the primary systems designer, gameplay scripter (C#), and level designer for one of the two areas present. My area focuses more on the investigation &amp; other non-combat gameplay, where Garry&#8217;s level focuses on the FPS combat aspects of gameplay.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-294bdc0 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="294bdc0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="5120" height="2880" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg 5120w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-300x169.jpg 300w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-768x432.jpg 768w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1024x576.jpg 1024w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-738x415.jpg 738w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1458x820.jpg 1458w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-996x560.jpg 996w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1992x1121.jpg 1992w" sizes="(max-width: 5120px) 100vw, 5120px" data-attachment-id="505" data-permalink="/motorball_screenshot-1-2/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" data-orig-size="5120,2880" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Motorball_Screenshot (1)" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-300x169.jpg" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1024x576.jpg" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-95bd456 elementor-widget elementor-widget-spacer" data-id="95bd456" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5a5833d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5a5833d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-864cd1d" data-id="864cd1d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-a5ec4a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a5ec4a6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9002a2e" data-id="9002a2e" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-0cb576e elementor-view-default elementor-widget elementor-widget-icon" data-id="0cb576e" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-gamepad" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d0461d6 elementor-widget elementor-widget-heading" data-id="d0461d6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Challenge</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a6d2b8f elementor-widget elementor-widget-text-editor" data-id="a6d2b8f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>For this project, we were asked to make a prototype of a game that takes place in the world of <em>Battle Angel: Alita</em>, specifically about the sport <em>Motorball</em> that is featured in the 3rd and 4th volumes of the manga. Our given target audience was primarily fans of the series, but also young adults who were not familiar with the franchise. This created an interesting obstacle of needing to have content that appeals to fans and newcomers, without excluding the other demographic.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1d42fb5" data-id="1d42fb5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-49cd512 elementor-view-default elementor-widget elementor-widget-icon" data-id="49cd512" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-check" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-08380f3 elementor-widget elementor-widget-heading" data-id="08380f3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-efe8124 elementor-widget elementor-widget-text-editor" data-id="efe8124" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>It was immediately clear to us that motorball was far too complex and nuanced to make a proper prototype in our given timeframe. We ended up landing on the idea to make our prototype take place at and around a motorball stadium. Additionally, we decided that in order to avoid any conflicts, it would be best to detach this game from the main storyline.</p><p>These solutions conveniently helped address the target audience as well. By shifting the focus away from motorball itself, it makes this game more appealing to newcomers, as motorball is a pretty niche aspect of an already niche series. At the same time, by treating this as a spinoff, it reduces the risk of angering fans of the series by not adhering to the canon 100%.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-f1595ec elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="f1595ec" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fb975a2 elementor-widget elementor-widget-text-editor" data-id="fb975a2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><em>Motorball: The Bounty</em>, as it became, represents a vertical slice of a <em>First Person RPG</em> with <em>First Person Shooter</em> elements. In this game, you take on the role of a cybernetically enhanced Hunter-Warrior living in the cyber-punk dystopian world of <em>Battle Angel</em>. For this mission, the player is pursuing a bounty on a criminal associated with a terrorist group that has staged bombing attacks on the motorball stadium.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-83c90c6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="83c90c6" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5d0c6cd" data-id="5d0c6cd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4e841d8 elementor-widget elementor-widget-spacer" data-id="4e841d8" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b86aaa3 elementor-view-default elementor-widget elementor-widget-icon" data-id="b86aaa3" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-list-ul" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9b135d8 elementor-widget elementor-widget-heading" data-id="9b135d8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Highlights</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b8710f elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7b8710f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="512" data-permalink="/motorball_gif_train/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Train" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train-300x169.gif" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">The game begins with the player entering the area around the motorball stadium on a train. The reasoning behind this was to give the player a nice, gradual introduction to their environment, rather than simply plotting them down in the thick of the action right from the start. Additionally, this provides the player with a nice vista view of the level before and after they get off the train, which serves as a nice visual introduction to the level.</span></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7231f61 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7231f61" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="513" data-permalink="/motorball_gif_life/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Life" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life-300x169.gif" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">One of the things we wanted to accomplish with this prototype is to make the world feel active and alive. We executed this by having numerous NPCs around the area engaged in different activities. We have people waiting in line at food stands and other vendors, a group of men watching some “sexy” dancers, a large group around two individuals fighting, as well as many individual people throughout the level. For the most part, but especially with the isolated people, I wanted to make sure that there’s some sort of story to them. This is what I feel makes the area feel alive, a bunch of models in T-Pose would not have the same effect!</span></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-db62527 elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="db62527" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="514" data-permalink="/motorball_gif_scanner/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Scanner" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner-300x169.gif" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">The player finds they are unable to buy a ticket, due to Alita bringing so much popularity to the sport. This was an example of how I would plan to subtly reference the&nbsp;</span><i style="white-space: normal;">Alita</i><span style="white-space: normal;">&nbsp;source material, without clashing with it. This obstacle also provides an avenue to introduce some of the AI/Cybernetic abilities the player has. In this vertical slice, the focus is the&nbsp;</span><i style="white-space: normal;">scanner</i><span style="white-space: normal;">&nbsp;which is used to identify various types of targets within the level. This ability has many useful applications that could be expanded on, further down the theoretical road.</span></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7fc0844 elementor-widget elementor-widget-spacer" data-id="7fc0844" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e3cd5b8 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="e3cd5b8" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-64257d9" data-id="64257d9" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ff1ca70 elementor-view-default elementor-widget elementor-widget-icon" data-id="ff1ca70" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-download" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-922b841 elementor-widget elementor-widget-heading" data-id="922b841" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Media</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-73c2868 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="73c2868" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d865f00" data-id="d865f00" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-610bc60 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="610bc60" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-738x415.jpg" alt="Motorball_Screenshot (1)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-2-738x415.jpg" alt="Motorball_Screenshot (2)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-3-738x415.jpg" alt="Motorball_Screenshot (3)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-4-738x415.jpg" alt="Motorball_Screenshot (4)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-5-738x415.jpg" alt="Motorball_Screenshot (5)" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-39a382d" data-id="39a382d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-733e22f elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="733e22f" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/KauROWLB0uc&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-a5d730e elementor-align-center elementor-widget elementor-widget-button" data-id="a5d730e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://drive.google.com/uc?export=download&#038;confirm=hXkN&#038;id=16QOQkKDyhqJ6wRGPV9Mc8D4kT2hTZbq1" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+						<span class="elementor-button-text">Download</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-daba64d elementor-widget elementor-widget-spacer" data-id="daba64d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9addebf elementor-view-default elementor-widget elementor-widget-icon" data-id="9addebf" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-book" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d5f4a02 elementor-widget elementor-widget-heading" data-id="d5f4a02" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Documentation</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-0995d9a elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0995d9a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ea04179" data-id="ea04179" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b4c8438 elementor-widget elementor-widget-image" data-id="b4c8438" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/file/d/1F8RX6pQ0oT_IpzhJF7WFMvlA8gXfeUcyguhErI_ZVvs/view" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/Motorball_Doc_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Motorball_Doc_Walkthrough" alt="Motorball_Doc_Walkthrough" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b1717c5" data-id="b1717c5" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c8cc847 elementor-widget elementor-widget-image" data-id="c8cc847" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/file/d/1GQAdHuThbs2ELMJILHayIBGSD1-fvUb1/view" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/Motorball_Doc_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="Motorball_Doc_Map" alt="Motorball_Doc_Map" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Map</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Notline Miami</title>
+		<link>/portfolio/notline-miami/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Fri, 20 Apr 2018 06:05:46 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=342</guid>
+
+					<description><![CDATA[Introduction Notline Miami is a game prototype I made as a case study &#8211; my goal was to attempt to replicate various aspects of the indie hit, Hotline Miami. I completed this project over the course of a week using the Unity Engine and C#. I worked as the sole systems designer, level designer, and ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="342" class="elementor elementor-342" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-3bcc1488 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3bcc1488" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a81a7eb" data-id="1a81a7eb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-69ee72e1 elementor-widget elementor-widget-heading" data-id="69ee72e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Introduction</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-71d7848f elementor-widget elementor-widget-text-editor" data-id="71d7848f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p><i>Notline Miami</i> is a game prototype I made as a case study &#8211; my goal was to attempt to replicate various aspects of the indie hit, <i>Hotline Miami</i>.</p>
+<p>I completed this project over the course of a week using the Unity Engine and C#. I worked as the sole systems designer, level designer, and scripter for this project. All models and music were sourced/borrowed.</p>
+<p>This game took <b>1st place prize</b> at <i>Academy of Art University&#8217;s Spring Show</i> for <b>Game Prototype</b> in 2018.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-33c035e4 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="33c035e4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img width="2560" height="1440" src="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03.png 2560w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-300x169.png 300w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-768x432.png 768w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-1024x576.png 1024w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-738x415.png 738w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-1458x820.png 1458w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-996x560.png 996w, /wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-1992x1121.png 1992w" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="393" data-permalink="/nickcunningham_notlinemiami_screenshot03/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03.png" data-orig-size="2560,1440" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NickCunningham_NotlineMiami_screenshot03" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-300x169.png" data-large-file="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-1024x576.png" />														</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4a17945 elementor-widget elementor-widget-spacer" data-id="4a17945" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5e3d1206 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5e3d1206" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e6332f0" data-id="4e6332f0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-479ac427 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="479ac427" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-20f3d723" data-id="20f3d723" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-27f94eb4 elementor-view-default elementor-widget elementor-widget-icon" data-id="27f94eb4" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-gamepad" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f05beef elementor-widget elementor-widget-heading" data-id="5f05beef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Challenge</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7b7f45ab elementor-widget elementor-widget-text-editor" data-id="7b7f45ab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>This project was the result of final assignments in two separate classes. The first class was an advanced scripting class &#8211; we were instructed to make a game, any game, as long as it was functional and preferably fun. The second class was a UI scripting class &#8211; there was a series of different menus we had to make functional both in and out of the game.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1d6deba2" data-id="1d6deba2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4a33f832 elementor-view-default elementor-widget elementor-widget-icon" data-id="4a33f832" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-check"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7d2fc5a2 elementor-widget elementor-widget-heading" data-id="7d2fc5a2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Solution</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-16ea46b5 elementor-widget elementor-widget-text-editor" data-id="16ea46b5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>I realized pretty quickly that these assignment prompts were quite broad, and that isn&#8217;t necessarily a good thing. I decided that I would both learn more and make my life easier by referencing a game, rather than start from ground zero.</p><p>I landed on <em>Hotline Miami</em> for a few reasons (but mostly because I enjoyed it). The main reason was that it had a few clear mechanics that I could copy that weren&#8217;t overly-complicated (objective, movement, gunplay, etc.). Additionally, the UI in <em>Hotline Miami</em> is pretty interesting and was both a good source of inspiration as well as motivation to make something that looked and felt cool.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-7a8b657e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7a8b657e" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-13702286 elementor-widget elementor-widget-text-editor" data-id="13702286" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>I decided to call this project Notline Miami &#8211; I guess I like to think I can be funny, but your mileage may vary. There are three little levels that you can sneak, punch, and shoot your way through. The goal is to kill everything that moves, and kill them before they kill you!</p><p>This ended up being one of those projects that I bit off more than I could chew, but I did a few late nights and got it to a state that I was happy with.</p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-680ef8db elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="680ef8db" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6fa02f95" data-id="6fa02f95" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3d47985a elementor-widget elementor-widget-spacer" data-id="3d47985a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-763f1914 elementor-view-default elementor-widget elementor-widget-icon" data-id="763f1914" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-list-ul" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7206c40b elementor-widget elementor-widget-heading" data-id="7206c40b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Highlights</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4cf456c5 elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4cf456c5" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/NotlineMiami_Clip02.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="620" data-permalink="/notlinemiami_clip02/" data-orig-file="/wp-content/uploads/NotlineMiami_Clip02.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NotlineMiami_Clip02" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/NotlineMiami_Clip02-300x169.gif" data-large-file="/wp-content/uploads/NotlineMiami_Clip02.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">On the UI side of things, one thing I was pretty proud of was my Main Menu. Since this was going to be the first thing people would see when starting the game, I wanted it to be just as eye catching as it is in the actual Hotline Miami. That being said, while most of this prototype is best described as inspired by Hotline Miami, this main menu is the only part that I could say is a shameless rip-off.</span> Despite that, I have to say that it was a great learning experience. A lot went into the making of Hotline Miami's UI and I never truly realized until I tried to do it myself.</p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-10182365 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="10182365" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/NotlineMiami_Clip01.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="619" data-permalink="/notlinemiami_clip01/" data-orig-file="/wp-content/uploads/NotlineMiami_Clip01.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NotlineMiami_Clip01" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/NotlineMiami_Clip01-300x169.gif" data-large-file="/wp-content/uploads/NotlineMiami_Clip01.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">One thing that would be essential in making this prototype feel convincing would be creating some high tension moments. Some of the best parts of Hotline Miami are when you go into a room, guns blazing, frantically moving around trying not to get shot while trying to aim correctly. I tuned the player controls to support this chaotic movement, and I tuned the AI to be a little more punishing than it should be - they hit hard. The result is that going into a room with a few enemies in it is always a gamble! One thing that I learned during this process is how hard it is to balance too easy vs. too hard - there's a fine line.</span></p></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-222e4af7 elementor-widget elementor-widget-spacer" data-id="222e4af7" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-14db9f26 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="14db9f26" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-75e5ee5a" data-id="75e5ee5a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-277e95a7 elementor-view-default elementor-widget elementor-widget-icon" data-id="277e95a7" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-download" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-41dacfe8 elementor-widget elementor-widget-heading" data-id="41dacfe8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Media</h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-160e81cd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="160e81cd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-116d0888" data-id="116d0888" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-415df46 elementor-pagination-position-inside elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="415df46" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot01-1458x820.png" alt="NickCunningham_NotlineMiami_screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot02-1458x820.jpg" alt="NickCunningham_NotlineMiami_screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot03-1458x820.png" alt="NickCunningham_NotlineMiami_screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_NotlineMiami/NickCunningham_NotlineMiami_screenshot04-1458x820.png" alt="NickCunningham_NotlineMiami_screenshot04" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1fd5ed25 elementor-align-right elementor-widget elementor-widget-button" data-id="1fd5ed25" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://drive.google.com/uc?authuser=0&#038;id=1oPSaVtlgl8mOu4-EixPoUfY-QskGAk8l&#038;export=download" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+						<span class="elementor-button-text">Download</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2a4758f3" data-id="2a4758f3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-33b25477 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="33b25477" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/youtu.be\/NvbuN30eAcA&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1ad8710 elementor-align-left elementor-widget elementor-widget-button" data-id="1ad8710" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://github.com/TheNickOfTime/Notline-Miami" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fab fa-github"></i>			</span>
+						<span class="elementor-button-text">Source</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-4e33fc62 elementor-widget elementor-widget-spacer" data-id="4e33fc62" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5ec278c9 elementor-section-content-bottom elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ec278c9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6192b326" data-id="6192b326" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2d39bb52 elementor-widget elementor-widget-image" data-id="2d39bb52" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/file/d/1F8RX6pQ0oT_IpzhJF7WFMvlA8gXfeUcyguhErI_ZVvs/view" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/Motorball_Doc_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Motorball_Doc_Walkthrough" alt="Motorball_Doc_Walkthrough" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-776db384" data-id="776db384" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5efba7a5 elementor-widget elementor-widget-image" data-id="5efba7a5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+									<figure class="wp-caption">
+											<a href="https://drive.google.com/file/d/1GQAdHuThbs2ELMJILHayIBGSD1-fvUb1/view" target="_blank">
+							<img src="/wp-content/uploads/elementor/thumbs/Motorball_Doc_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="Motorball_Doc_Map" alt="Motorball_Doc_Map" class="elementor-animation-grow" />								</a>
+											<figcaption class="widget-image-caption wp-caption-text">Map</figcaption>
+										</figure>
+								</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hexpanse</title>
+		<link>/portfolio/hexpanse/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Thu, 25 May 2017 13:54:21 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=110</guid>
+
+					<description><![CDATA[A mobile city-builder game for iOS and Android. This was a project I worked on in two parts, first as a UI/UX concept, and then actually building the game at a later date.
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="110" class="elementor elementor-110" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-463a593f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="463a593f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-22118c8c" data-id="22118c8c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7f39bce elementor-widget elementor-widget-heading" data-id="7f39bce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Game</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4969a22 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="4969a22" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;vimeo&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="vimeo Video Player" src="https://player.vimeo.com/video/234159360?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e75a780 elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="e75a780" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_01-768x480.png" alt="NickCunningham_Hexpanse_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_02-768x480.png" alt="NickCunningham_Hexpanse_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_03-768x480.png" alt="NickCunningham_Hexpanse_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_04-768x480.png" alt="NickCunningham_Hexpanse_04" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-59763b7 elementor-align-center elementor-widget elementor-widget-button" data-id="59763b7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_Build.zip" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Download (APK)</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b4d61d2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="b4d61d2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-022929d elementor-widget elementor-widget-heading" data-id="022929d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">UI/UX</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fc79590 elementor-widget elementor-widget-text-editor" data-id="fc79590" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>This is the style I guide I built for the original vision of the game. The main difference is that things became more colorful, but I ended up sticking the the stylistic vision quite closely overall.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-21fc0ae elementor-widget elementor-widget-html" data-id="21fc0ae" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>.embed-container { position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://drive.google.com/file/d/16b2532nlRyCSf8h5QTmwbNDBnuJ2OMVF/preview' width='300' height='150'></iframe></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Diamond Heist</title>
+		<link>/portfolio/diamond-heist/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 16:17:04 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=91</guid>
+
+					<description><![CDATA[A stealth VR experience for the HTC Vive. Use tools and quick thinking to escape traps and puzzles unoticed.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91 elementor-bc-flex-widget" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-672107e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="672107e9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1f138f98" data-id="1f138f98" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-74573b4 elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="74573b4" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;vimeo&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<iframe class="elementor-video-iframe" allowfullscreen title="vimeo Video Player" src="https://player.vimeo.com/video/235202388?color&amp;autopause=0&amp;loop=0&amp;muted=0&amp;title=1&amp;portrait=1&amp;byline=1#t="></iframe>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-03c6aea elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="03c6aea" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;2&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_01-768x406.jpg" alt="NickCunningham_DiamondHeist_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_02-768x406.jpg" alt="NickCunningham_DiamondHeist_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_03-768x406.jpg" alt="NickCunningham_DiamondHeist_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_04-768x406.jpg" alt="NickCunningham_DiamondHeist_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_05-768x406.jpg" alt="NickCunningham_DiamondHeist_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_06-768x406.jpg" alt="NickCunningham_DiamondHeist_06" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i class="eicon-chevron-left" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i class="eicon-chevron-right" aria-hidden="true"></i>
+						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-68cc36a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="68cc36a" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3223b5f elementor-align-center elementor-widget elementor-widget-button" data-id="3223b5f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_Build.zip" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
+						<span class="elementor-button-text">Download</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

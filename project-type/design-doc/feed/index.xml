@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Design Document &#8211; Nick Cunningham</title>
+	<atom:link href="http://192.168.1.2/project-type/design-doc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Game Designer</description>
+	<lastBuildDate>Fri, 17 Jul 2020 01:21:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<title>Design Document &#8211; Nick Cunningham</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Outpost</title>
+		<link>/portfolio/the-outpost/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Sun, 30 Jun 2019 06:27:28 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=810</guid>
+
+					<description><![CDATA[Introduction The Outpost is a comprehensive, yet adapatable, Game Design Document for a unique Zombie Survival FPS. I constructed this in-depth plan from the ground up over the course of a semster. I have laid out the details from the core gameplay loops, to the narrative, down to suggested individual stats of the weapons present ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="810" class="elementor elementor-810" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-1fdba0f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fdba0f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-89a2635" data-id="89a2635" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5cdcb61 elementor-widget elementor-widget-heading" data-id="5cdcb61" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-medium">Introduction</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9519d46 elementor-widget elementor-widget-text-editor" data-id="9519d46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>The Outpost is a comprehensive, yet adapatable, Game Design Document for a unique Zombie Survival FPS. I constructed this in-depth plan from the ground up over the course of a semster. I have laid out the details from the core gameplay loops, to the narrative, down to suggested individual stats of the weapons present in the game. </p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1354653 elementor-widget elementor-widget-heading" data-id="1354653" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-medium">GDD:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-912fa80 elementor-widget elementor-widget-html" data-id="912fa80" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>.embed-container { position: relative; padding-bottom: 110%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://drive.google.com/file/d/1huuJD9vq6vcOKpLyOWUgjcN0Eu-5ikDN/preview'></iframe></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
