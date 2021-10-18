@@ -12,10 +12,10 @@
 
 <channel>
 	<title>Game &#8211; Nick Cunningham</title>
-	<atom:link href="http://192.168.1.2/project-type/games/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Game Designer</description>
-	<lastBuildDate>Fri, 17 Jul 2020 01:28:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 20:23:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,19 +24,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
 	<title>Game &#8211; Nick Cunningham</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Thief&#8217;s Tale</title>
-		<link>/portfolio/a-thiefs-tale/</link>
+		<link>./../../../portfolio/a-thiefs-tale/index.html</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sun, 10 Feb 2019 07:04:22 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=720</guid>
+				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=720</guid>
 
 					<description><![CDATA[A Thief&#8217;s Tale is a semester-long collaborative project that was worked on by a group of my peers as a class. Primarily I worked on the second area of the game, called &#8220;The Courtyard.&#8221; I worked with Garry McGee to completely rework this area from the ground up, from what it had been from the ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="720" class="elementor elementor-720 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -76,11 +76,11 @@
 			</item>
 		<item>
 		<title>Fart-ernity</title>
-		<link>/portfolio/fart-ernity/</link>
+		<link>./../../../portfolio/fart-ernity/index.html</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 09:15:12 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=714</guid>
+				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=714</guid>
 
 					<description><![CDATA[Fart-ernity was an entry into the GMTK Game Jam 2018. The premise was to make a game of a certain genre while having it lack a signature mechanic of that genre. Garry McGee, Elijah Mazur and myself decided to make a stealth genre game without any physical objects to hide behind. The theme we applied ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="714" class="elementor elementor-714 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -142,14 +142,14 @@
 			</item>
 		<item>
 		<title>Diamond Heist</title>
-		<link>/portfolio/diamond-heist/</link>
+		<link>./../../../portfolio/diamond-heist/index.html</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Wed, 24 May 2017 16:17:04 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=91</guid>
+				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=91</guid>
 
 					<description><![CDATA[A stealth VR experience for the HTC Vive. Use tools and quick thinking to escape traps and puzzles unoticed.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91 elementor-bc-flex-widget" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-672107e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="672107e9" data-element_type="section">
@@ -168,7 +168,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_01-768x406.jpg" alt="NickCunningham_DiamondHeist_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_02-768x406.jpg" alt="NickCunningham_DiamondHeist_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_03-768x406.jpg" alt="NickCunningham_DiamondHeist_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_04-768x406.jpg" alt="NickCunningham_DiamondHeist_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_05-768x406.jpg" alt="NickCunningham_DiamondHeist_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_06-768x406.jpg" alt="NickCunningham_DiamondHeist_06" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_01.jpg" alt="NickCunningham_DiamondHeist_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_02.jpg" alt="NickCunningham_DiamondHeist_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_03.jpg" alt="NickCunningham_DiamondHeist_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_04.jpg" alt="NickCunningham_DiamondHeist_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_05.jpg" alt="NickCunningham_DiamondHeist_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_06.jpg" alt="NickCunningham_DiamondHeist_06" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -192,11 +192,10 @@
 				<div class="elementor-element elementor-element-3223b5f elementor-align-center elementor-widget elementor-widget-button" data-id="3223b5f" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_Build.zip" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="https://drive.google.com/file/d/1GqoBvUUc-cKdA1QZaD54YH-gkaDplWol/view?usp=sharing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
-									<i class="fa fa-windows" aria-hidden="true"></i>
-							</span>
+				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
 						<span class="elementor-button-text">Download</span>
 		</span>
 					</a>
