@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-32x32.png</url>
 	<title>Level Design &#8211; Nick Cunningham</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
@@ -130,7 +130,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-1.png" alt="NickCunningham_Plateau-1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-2.png" alt="NickCunningham_Plateau-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-3.png" alt="NickCunningham_Plateau-3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-4.png" alt="NickCunningham_Plateau-4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-5.png" alt="NickCunningham_Plateau-5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-6.png" alt="NickCunningham_Plateau-6" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-1-768x432.jpg" alt="NickCunningham_Plateau-1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-2-768x432.jpg" alt="NickCunningham_Plateau-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-3-768x432.jpg" alt="NickCunningham_Plateau-3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-4-768x432.jpg" alt="NickCunningham_Plateau-4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-5-768x432.jpg" alt="NickCunningham_Plateau-5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-6-768x432.jpg" alt="NickCunningham_Plateau-6" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -179,7 +179,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1OJ39pMk_F-b1KbpCa2FW8iTObp5Wx5_6">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Walkthrough" alt="Plateau_Thumbnail_Walkthrough" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Walkthrough-perkdeliu4nnluo9gp5qchv73wk89roxk2pmgrgrf4.jpg" title="Plateau_Thumbnail_Walkthrough" alt="Plateau_Thumbnail_Walkthrough" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
 										</figure>
 								</div>
@@ -196,7 +196,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1EbNLueOmtfkG8HqDdLTdI3b0TdfZss4h">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Map" alt="Plateau_Thumbnail_Map" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Map-perkdfjd0yoxxgmwb7kcwzmnpaflhgsnw7d3y1fd8w.jpg" title="Plateau_Thumbnail_Map" alt="Plateau_Thumbnail_Map" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Map</figcaption>
 										</figure>
 								</div>
@@ -213,7 +213,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=19HXfhk8AhexepUCRgF6-rszhefUvWaOS">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Timeline-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Timeline" alt="Plateau_Thumbnail_Timeline" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Timeline-perkdeliu4nnluo9gp5qchv73wk89roxk2pmgrgrf4.jpg" title="Plateau_Thumbnail_Timeline" alt="Plateau_Thumbnail_Timeline" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Timeline</figcaption>
 										</figure>
 								</div>
@@ -236,7 +236,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1t2HnXGYQxMsH6tFzotE9dwRkPMca4UsJ">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_AssetList-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_AssetList" alt="Plateau_Thumbnail_AssetList" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_AssetList-perkdfjd0yoxxgmwb7kcwzmnpaflhgsnw7d3y1fd8w.jpg" title="Plateau_Thumbnail_AssetList" alt="Plateau_Thumbnail_AssetList" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Asset List</figcaption>
 										</figure>
 								</div>
@@ -253,7 +253,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1bC2mIL8bpMrkV_DnXxAKG4m3QqHyg27z">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Reference-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Reference" alt="Plateau_Thumbnail_Reference" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Reference-perkdfjd0yoxxgmwb7kcwzmnpaflhgsnw7d3y1fd8w.jpg" title="Plateau_Thumbnail_Reference" alt="Plateau_Thumbnail_Reference" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Reference</figcaption>
 										</figure>
 								</div>
@@ -312,7 +312,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_01.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_02.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_03.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_04.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_05.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_06.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_07.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_08.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_09.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_10.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_11.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_01.jpg" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_02.jpg" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_03.jpg" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_04.jpg" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_05.jpg" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_06.jpg" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_07.jpg" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_08.jpg" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_09.jpg" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_10.jpg" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_11.jpg" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
 																</div>
 				</div>
 				</div>
@@ -691,7 +691,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_01.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_02.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_03.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_04.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_05.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_06.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_07.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_08.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_09.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_10.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_11.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_01.jpg" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_02.jpg" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_03.jpg" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_04.jpg" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_05.jpg" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_06.jpg" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_07.jpg" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_08.jpg" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_09.jpg" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_10.jpg" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_11.jpg" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -770,7 +770,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=19xU-8S_QVCzGMU56-2Q01TiSZPCO6Epg" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_BossSpec-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_BossSpec" alt="CombatDesign_Thumbnail_BossSpec" class="elementor-animation-grow" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_BossSpec-perkdgh77sq892lj5pyzhhe4aoayp5we8c0lfbdz2o.jpg" title="CombatDesign_Thumbnail_BossSpec" alt="CombatDesign_Thumbnail_BossSpec" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Boss Spec</figcaption>
 										</figure>
 								</div>
@@ -1154,7 +1154,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/file/d/1F8RX6pQ0oT_IpzhJF7WFMvlA8gXfeUcyguhErI_ZVvs/view" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Motorball_Doc_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Motorball_Doc_Walkthrough" alt="Motorball_Doc_Walkthrough" class="elementor-animation-grow" />								</a>
+							<img src="./../../../wp-content/uploads/elementor/thumbs/Motorball_Doc_Walkthrough-perkdqtfaz4dss6ihcfvqws6tww01u1fxr6xpcyn68.jpg" title="Motorball_Doc_Walkthrough" alt="Motorball_Doc_Walkthrough" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
 										</figure>
 								</div>
