@@ -12,10 +12,10 @@
 
 <channel>
 	<title>Level Design &#8211; Nick Cunningham</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://192.168.1.2/project-type/level-designs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Game Designer</description>
-	<lastBuildDate>Mon, 18 Oct 2021 20:23:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jul 2020 01:28:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,19 +24,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
 	<title>Level Design &#8211; Nick Cunningham</title>
-	<link>./../../../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Thief&#8217;s Tale</title>
-		<link>./../../../portfolio/a-thiefs-tale/index.html</link>
+		<link>/portfolio/a-thiefs-tale/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sun, 10 Feb 2019 07:04:22 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=720</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=720</guid>
 
 					<description><![CDATA[A Thief&#8217;s Tale is a semester-long collaborative project that was worked on by a group of my peers as a class. Primarily I worked on the second area of the game, called &#8220;The Courtyard.&#8221; I worked with Garry McGee to completely rework this area from the ground up, from what it had been from the ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="720" class="elementor elementor-720 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -76,11 +76,11 @@
 			</item>
 		<item>
 		<title>Plateau</title>
-		<link>./../../../portfolio/plateau/index.html</link>
+		<link>/portfolio/plateau/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 08:01:52 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=691</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=691</guid>
 
 					<description><![CDATA[Plateau is a level design project made as a single mission that would take place in a larger scale RPG. In this mission, you take on the role of a bounty hunter who responds to a job posting on an isolated village on a plateau in the mountains. Download Documentation Walkthrough Map Timeline Asset List ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="691" class="elementor elementor-691 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -130,7 +130,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-1.png" alt="NickCunningham_Plateau-1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-2.png" alt="NickCunningham_Plateau-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-3.png" alt="NickCunningham_Plateau-3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-4.png" alt="NickCunningham_Plateau-4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-5.png" alt="NickCunningham_Plateau-5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-6.png" alt="NickCunningham_Plateau-6" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-1-768x432.png" alt="NickCunningham_Plateau-1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-2-768x432.png" alt="NickCunningham_Plateau-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-3-768x432.png" alt="NickCunningham_Plateau-3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-4-768x432.png" alt="NickCunningham_Plateau-4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-5-768x432.png" alt="NickCunningham_Plateau-5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-6-768x432.png" alt="NickCunningham_Plateau-6" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -179,7 +179,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1OJ39pMk_F-b1KbpCa2FW8iTObp5Wx5_6">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Walkthrough" alt="Plateau_Thumbnail_Walkthrough" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Walkthrough" alt="Plateau_Thumbnail_Walkthrough" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
 										</figure>
 								</div>
@@ -196,7 +196,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1EbNLueOmtfkG8HqDdLTdI3b0TdfZss4h">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Map" alt="Plateau_Thumbnail_Map" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Map" alt="Plateau_Thumbnail_Map" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Map</figcaption>
 										</figure>
 								</div>
@@ -213,7 +213,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=19HXfhk8AhexepUCRgF6-rszhefUvWaOS">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Timeline-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Timeline" alt="Plateau_Thumbnail_Timeline" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Timeline-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Timeline" alt="Plateau_Thumbnail_Timeline" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Timeline</figcaption>
 										</figure>
 								</div>
@@ -236,7 +236,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1t2HnXGYQxMsH6tFzotE9dwRkPMca4UsJ">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_AssetList-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_AssetList" alt="Plateau_Thumbnail_AssetList" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_AssetList-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_AssetList" alt="Plateau_Thumbnail_AssetList" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Asset List</figcaption>
 										</figure>
 								</div>
@@ -253,7 +253,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1bC2mIL8bpMrkV_DnXxAKG4m3QqHyg27z">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Reference-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Reference" alt="Plateau_Thumbnail_Reference" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Reference-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Reference" alt="Plateau_Thumbnail_Reference" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Reference</figcaption>
 										</figure>
 								</div>
@@ -281,11 +281,11 @@
 			</item>
 		<item>
 		<title>Dungeon of Greyness</title>
-		<link>./../../../portfolio/dungeon-of-greyness/index.html</link>
+		<link>/portfolio/dungeon-of-greyness/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Mon, 28 Jan 2019 08:28:34 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=637</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=637</guid>
 
 					<description><![CDATA[Introduction &#8220;Dungeon of Greyness&#8221; is a game prototype, with a focus on combat design, that I built from the grround up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week. Using the ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="637" class="elementor elementor-637" data-elementor-settings="[]">
@@ -312,7 +312,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_01.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_02.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_03.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_04.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_05.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_06.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_07.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_08.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_09.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_10.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_11.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_01.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_02.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_03.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_04.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_05.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_06.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_07.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_08.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_09.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_10.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_11.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
 																</div>
 				</div>
 				</div>
@@ -449,7 +449,7 @@
 				</div>
 				<div class="elementor-element elementor-element-4e511e13 elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4e511e13" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/CombatDesign_PlayerMovement.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="666" data-permalink="./../../../portfolio/dungeon-of-greyness/combatdesign_playermovement/index.html" data-orig-file="./../../../wp-content/uploads/CombatDesign_PlayerMovement.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_PlayerMovement" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CombatDesign_PlayerMovement.gif" data-large-file="./../../../wp-content/uploads/CombatDesign_PlayerMovement.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">At a base level, the player has a basic attack that can be chained up to three times, increasing in damage each hit of the combo. Near the start of the game, the player is given the ability to dash. The dash allows the player to be fluid in combat, as well as escape sticky situations since there is an invulnerability window during the dash. Later, the player unlocks two additional upgrades - Super Slash and Super Dash. Super Slash allows the player to hold the attack button to charge an attack that does an impressive amount of damage that ignores shields. Super Dash similarly allows the player to hold the dash button to charge up a dash that both slightly damages as well as momentarily stuns enemies.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/CombatDesign_PlayerMovement.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="666" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_playermovement/" data-orig-file="/wp-content/uploads/CombatDesign_PlayerMovement.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_PlayerMovement" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_PlayerMovement-300x169.gif" data-large-file="/wp-content/uploads/CombatDesign_PlayerMovement.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">At a base level, the player has a basic attack that can be chained up to three times, increasing in damage each hit of the combo. Near the start of the game, the player is given the ability to dash. The dash allows the player to be fluid in combat, as well as escape sticky situations since there is an invulnerability window during the dash. Later, the player unlocks two additional upgrades - Super Slash and Super Dash. Super Slash allows the player to hold the attack button to charge an attack that does an impressive amount of damage that ignores shields. Super Dash similarly allows the player to hold the dash button to charge up a dash that both slightly damages as well as momentarily stuns enemies.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4104f90 elementor-widget elementor-widget-text-editor" data-id="4104f90" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -478,7 +478,7 @@
 						<div class="elementor-element elementor-element-af47300 elementor-widget elementor-widget-image" data-id="af47300" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="320" height="250" src="./../../../wp-content/uploads/CombatDesign_Slime.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="657" data-permalink="./../../../portfolio/dungeon-of-greyness/combatdesign_slime/index.html" data-orig-file="./../../../wp-content/uploads/CombatDesign_Slime.gif" data-orig-size="320,250" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Slime" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CombatDesign_Slime.gif" data-large-file="./../../../wp-content/uploads/CombatDesign_Slime.gif" />														</div>
+												<img width="320" height="250" src="/wp-content/uploads/CombatDesign_Slime.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="657" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_slime/" data-orig-file="/wp-content/uploads/CombatDesign_Slime.gif" data-orig-size="320,250" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Slime" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Slime-300x234.gif" data-large-file="/wp-content/uploads/CombatDesign_Slime.gif" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-560a697 elementor-widget elementor-widget-heading" data-id="560a697" data-element_type="widget" data-widget_type="heading.default">
@@ -500,7 +500,7 @@
 						<div class="elementor-element elementor-element-1a802f6 elementor-widget elementor-widget-image" data-id="1a802f6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="240" height="320" src="./../../../wp-content/uploads/CombatDesign_Skeleton.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="662" data-permalink="./../../../portfolio/dungeon-of-greyness/combatdesign_skeleton/index.html" data-orig-file="./../../../wp-content/uploads/CombatDesign_Skeleton.gif" data-orig-size="240,320" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Skeleton" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CombatDesign_Skeleton.gif" data-large-file="./../../../wp-content/uploads/CombatDesign_Skeleton.gif" />														</div>
+												<img width="240" height="320" src="/wp-content/uploads/CombatDesign_Skeleton.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="662" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_skeleton/" data-orig-file="/wp-content/uploads/CombatDesign_Skeleton.gif" data-orig-size="240,320" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Skeleton" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Skeleton-225x300.gif" data-large-file="/wp-content/uploads/CombatDesign_Skeleton.gif" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-12f909c elementor-widget elementor-widget-heading" data-id="12f909c" data-element_type="widget" data-widget_type="heading.default">
@@ -528,7 +528,7 @@
 						<div class="elementor-element elementor-element-d704d7b elementor-widget elementor-widget-image" data-id="d704d7b" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="420" height="420" src="./../../../wp-content/uploads/CombatDesign_Knight.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="659" data-permalink="./../../../portfolio/dungeon-of-greyness/combatdesign_knight/index.html" data-orig-file="./../../../wp-content/uploads/CombatDesign_Knight.gif" data-orig-size="420,420" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Knight" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CombatDesign_Knight.gif" data-large-file="./../../../wp-content/uploads/CombatDesign_Knight.gif" />														</div>
+												<img width="420" height="420" src="/wp-content/uploads/CombatDesign_Knight.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="659" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_knight/" data-orig-file="/wp-content/uploads/CombatDesign_Knight.gif" data-orig-size="420,420" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Knight" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Knight-300x300.gif" data-large-file="/wp-content/uploads/CombatDesign_Knight.gif" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-0c192e3 elementor-widget elementor-widget-heading" data-id="0c192e3" data-element_type="widget" data-widget_type="heading.default">
@@ -550,7 +550,7 @@
 						<div class="elementor-element elementor-element-66d3306 elementor-widget elementor-widget-image" data-id="66d3306" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="566" height="566" src="./../../../wp-content/uploads/CombatDesign_Wizard.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="660" data-permalink="./../../../portfolio/dungeon-of-greyness/combatdesign_wizard/index.html" data-orig-file="./../../../wp-content/uploads/CombatDesign_Wizard.gif" data-orig-size="566,566" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Wizard" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CombatDesign_Wizard.gif" data-large-file="./../../../wp-content/uploads/CombatDesign_Wizard.gif" />														</div>
+												<img width="566" height="566" src="/wp-content/uploads/CombatDesign_Wizard.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="660" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_wizard/" data-orig-file="/wp-content/uploads/CombatDesign_Wizard.gif" data-orig-size="566,566" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_Wizard" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_Wizard-300x300.gif" data-large-file="/wp-content/uploads/CombatDesign_Wizard.gif" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-0f8e2b4 elementor-widget elementor-widget-heading" data-id="0f8e2b4" data-element_type="widget" data-widget_type="heading.default">
@@ -572,7 +572,7 @@
 				<div class="elementor-element elementor-element-7aa3f2e elementor-widget elementor-widget-image" data-id="7aa3f2e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="420" height="420" src="./../../../wp-content/uploads/CombatDesign_BossKnight.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="661" data-permalink="./../../../portfolio/dungeon-of-greyness/combatdesign_bossknight/index.html" data-orig-file="./../../../wp-content/uploads/CombatDesign_BossKnight.gif" data-orig-size="420,420" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_BossKnight" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CombatDesign_BossKnight.gif" data-large-file="./../../../wp-content/uploads/CombatDesign_BossKnight.gif" />														</div>
+												<img width="420" height="420" src="/wp-content/uploads/CombatDesign_BossKnight.gif" class="attachment-large size-large" alt="" loading="lazy" data-attachment-id="661" data-permalink="/portfolio/dungeon-of-greyness/combatdesign_bossknight/" data-orig-file="/wp-content/uploads/CombatDesign_BossKnight.gif" data-orig-size="420,420" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CombatDesign_BossKnight" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CombatDesign_BossKnight-300x300.gif" data-large-file="/wp-content/uploads/CombatDesign_BossKnight.gif" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-3f24d44 elementor-widget elementor-widget-heading" data-id="3f24d44" data-element_type="widget" data-widget_type="heading.default">
@@ -691,7 +691,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_01.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_02.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_03.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_04.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_05.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_06.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_07.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_08.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_09.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_10.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/CombatDesign_Screenshot_11.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_01-738x415.png" alt="CombatDesign_Screenshot_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_02-738x415.png" alt="CombatDesign_Screenshot_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_03-738x415.png" alt="CombatDesign_Screenshot_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_04-738x415.png" alt="CombatDesign_Screenshot_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_05-738x415.png" alt="CombatDesign_Screenshot_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_06-738x415.png" alt="CombatDesign_Screenshot_06" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_07-738x415.png" alt="CombatDesign_Screenshot_07" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_08-738x415.png" alt="CombatDesign_Screenshot_08" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_09-738x415.png" alt="CombatDesign_Screenshot_09" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_10-738x415.png" alt="CombatDesign_Screenshot_10" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/CombatDesign_Screenshot_11-738x415.png" alt="CombatDesign_Screenshot_11" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -753,7 +753,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1gWG3IMhZL9nlaga7oB4JifWtyQcvtFle" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Maps-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="CombatDesign_Thumbnail_Maps" alt="CombatDesign_Thumbnail_Maps" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Maps-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="CombatDesign_Thumbnail_Maps" alt="CombatDesign_Thumbnail_Maps" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Level Maps</figcaption>
 										</figure>
 								</div>
@@ -770,7 +770,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=19xU-8S_QVCzGMU56-2Q01TiSZPCO6Epg" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_BossSpec-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_BossSpec" alt="CombatDesign_Thumbnail_BossSpec" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_BossSpec-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_BossSpec" alt="CombatDesign_Thumbnail_BossSpec" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Boss Spec</figcaption>
 										</figure>
 								</div>
@@ -787,7 +787,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1KNCAYKRwdl88as_Dfg6EomaFrJPRoVCv" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Spreadsheets-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_Spreadsheets" alt="CombatDesign_Thumbnail_Spreadsheets" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Spreadsheets-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="CombatDesign_Thumbnail_Spreadsheets" alt="CombatDesign_Thumbnail_Spreadsheets" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Spreadsheets</figcaption>
 										</figure>
 								</div>
@@ -810,7 +810,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1h3nJfbGptL9yxim_emiNviWlEIEr-0H0" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/AttackSheet_Enemies-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="AttackSheet_Enemies" alt="AttackSheet_Enemies" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/AttackSheet_Enemies-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="AttackSheet_Enemies" alt="AttackSheet_Enemies" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Enemy Presentation Sheet</figcaption>
 										</figure>
 								</div>
@@ -827,7 +827,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1T4TQspmF_KWiXN1DTk4uIxVxr9U2HEGW" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_AttackSheet_Boss-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="CombatDesign_AttackSheet_Boss" alt="CombatDesign_AttackSheet_Boss" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_AttackSheet_Boss-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="CombatDesign_AttackSheet_Boss" alt="CombatDesign_AttackSheet_Boss" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Boss Presentation Sheet</figcaption>
 										</figure>
 								</div>
@@ -844,7 +844,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1hXHzUocUV6tU30YTXXyaNRz_dYCid-BT" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Sketchbook-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpeg" title="CombatDesign_Thumbnail_Sketchbook" alt="CombatDesign_Thumbnail_Sketchbook" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/CombatDesign_Thumbnail_Sketchbook-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpeg" title="CombatDesign_Thumbnail_Sketchbook" alt="CombatDesign_Thumbnail_Sketchbook" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Original Level Sketches</figcaption>
 										</figure>
 								</div>
@@ -872,11 +872,11 @@
 			</item>
 		<item>
 		<title>Motorball: The Bounty</title>
-		<link>./../../../portfolio/motorball-the-bounty/index.html</link>
+		<link>/portfolio/motorball-the-bounty/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Wed, 16 May 2018 01:22:01 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=449</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=449</guid>
 
 					<description><![CDATA[Introduction Motorball: The Bounty is a game prototype I created in association with Garry McGee. The goal we had for this project was to create a rough vertical slice capturing what a cyberpunk-esque RPG set in the Battle Angel Alita universe could be like. This prototype focuses on a bounty hunter mission where the player is ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="449" class="elementor elementor-449" data-elementor-settings="[]">
@@ -901,7 +901,7 @@
 				<div class="elementor-element elementor-element-294bdc0 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="294bdc0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="5120" height="2880" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="505" data-permalink="./../../../motorball_screenshot-1-2/index.html" data-orig-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" data-orig-size="5120,2880" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Motorball_Screenshot (1)" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" data-large-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" />														</div>
+												<img width="5120" height="2880" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg 5120w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-300x169.jpg 300w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-768x432.jpg 768w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1024x576.jpg 1024w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-738x415.jpg 738w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1458x820.jpg 1458w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-996x560.jpg 996w, /wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1992x1121.jpg 1992w" sizes="(max-width: 5120px) 100vw, 5120px" data-attachment-id="505" data-permalink="/motorball_screenshot-1-2/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" data-orig-size="5120,2880" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Motorball_Screenshot (1)" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-300x169.jpg" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-1024x576.jpg" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-95bd456 elementor-widget elementor-widget-spacer" data-id="95bd456" data-element_type="widget" data-widget_type="spacer.default">
@@ -1027,15 +1027,15 @@
 				</div>
 				<div class="elementor-element elementor-element-7b8710f elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7b8710f" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="512" data-permalink="./../../../motorball_gif_train/index.html" data-orig-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Train" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" data-large-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">The game begins with the player entering the area around the motorball stadium on a train. The reasoning behind this was to give the player a nice, gradual introduction to their environment, rather than simply plotting them down in the thick of the action right from the start. Additionally, this provides the player with a nice vista view of the level before and after they get off the train, which serves as a nice visual introduction to the level.</span></p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="512" data-permalink="/motorball_gif_train/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Train" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train-300x169.gif" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Train.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">The game begins with the player entering the area around the motorball stadium on a train. The reasoning behind this was to give the player a nice, gradual introduction to their environment, rather than simply plotting them down in the thick of the action right from the start. Additionally, this provides the player with a nice vista view of the level before and after they get off the train, which serves as a nice visual introduction to the level.</span></p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7231f61 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7231f61" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="513" data-permalink="./../../../motorball_gif_life/index.html" data-orig-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Life" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" data-large-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">One of the things we wanted to accomplish with this prototype is to make the world feel active and alive. We executed this by having numerous NPCs around the area engaged in different activities. We have people waiting in line at food stands and other vendors, a group of men watching some “sexy” dancers, a large group around two individuals fighting, as well as many individual people throughout the level. For the most part, but especially with the isolated people, I wanted to make sure that there’s some sort of story to them. This is what I feel makes the area feel alive, a bunch of models in T-Pose would not have the same effect!</span></p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="513" data-permalink="/motorball_gif_life/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Life" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life-300x169.gif" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Life.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">One of the things we wanted to accomplish with this prototype is to make the world feel active and alive. We executed this by having numerous NPCs around the area engaged in different activities. We have people waiting in line at food stands and other vendors, a group of men watching some “sexy” dancers, a large group around two individuals fighting, as well as many individual people throughout the level. For the most part, but especially with the isolated people, I wanted to make sure that there’s some sort of story to them. This is what I feel makes the area feel alive, a bunch of models in T-Pose would not have the same effect!</span></p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-db62527 elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="db62527" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="514" data-permalink="./../../../motorball_gif_scanner/index.html" data-orig-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Scanner" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" data-large-file="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">The player finds they are unable to buy a ticket, due to Alita bringing so much popularity to the sport. This was an example of how I would plan to subtly reference the&nbsp;</span><i style="white-space: normal;">Alita</i><span style="white-space: normal;">&nbsp;source material, without clashing with it. This obstacle also provides an avenue to introduce some of the AI/Cybernetic abilities the player has. In this vertical slice, the focus is the&nbsp;</span><i style="white-space: normal;">scanner</i><span style="white-space: normal;">&nbsp;which is used to identify various types of targets within the level. This ability has many useful applications that could be expanded on, further down the theoretical road.</span></p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="514" data-permalink="/motorball_gif_scanner/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Motorball_Gif_Scanner" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner-300x169.gif" data-large-file="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Gif_Scanner.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">The player finds they are unable to buy a ticket, due to Alita bringing so much popularity to the sport. This was an example of how I would plan to subtly reference the&nbsp;</span><i style="white-space: normal;">Alita</i><span style="white-space: normal;">&nbsp;source material, without clashing with it. This obstacle also provides an avenue to introduce some of the AI/Cybernetic abilities the player has. In this vertical slice, the focus is the&nbsp;</span><i style="white-space: normal;">scanner</i><span style="white-space: normal;">&nbsp;which is used to identify various types of targets within the level. This ability has many useful applications that could be expanded on, further down the theoretical road.</span></p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7fc0844 elementor-widget elementor-widget-spacer" data-id="7fc0844" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1079,7 +1079,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1.jpg" alt="Motorball_Screenshot (1)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-2.jpg" alt="Motorball_Screenshot (2)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-3.jpg" alt="Motorball_Screenshot (3)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-4.jpg" alt="Motorball_Screenshot (4)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-5.jpg" alt="Motorball_Screenshot (5)" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-1-738x415.jpg" alt="Motorball_Screenshot (1)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-2-738x415.jpg" alt="Motorball_Screenshot (2)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-3-738x415.jpg" alt="Motorball_Screenshot (3)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-4-738x415.jpg" alt="Motorball_Screenshot (4)" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Motorball/Motorball_Screenshot-5-738x415.jpg" alt="Motorball_Screenshot (5)" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -1154,7 +1154,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/file/d/1F8RX6pQ0oT_IpzhJF7WFMvlA8gXfeUcyguhErI_ZVvs/view" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Motorball_Doc_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Motorball_Doc_Walkthrough" alt="Motorball_Doc_Walkthrough" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Motorball_Doc_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Motorball_Doc_Walkthrough" alt="Motorball_Doc_Walkthrough" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
 										</figure>
 								</div>
@@ -1171,7 +1171,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/file/d/1GQAdHuThbs2ELMJILHayIBGSD1-fvUb1/view" target="_blank">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Motorball_Doc_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="Motorball_Doc_Map" alt="Motorball_Doc_Map" class="elementor-animation-grow" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Motorball_Doc_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.jpg" title="Motorball_Doc_Map" alt="Motorball_Doc_Map" class="elementor-animation-grow" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Map</figcaption>
 										</figure>
 								</div>
@@ -1199,14 +1199,14 @@
 			</item>
 		<item>
 		<title>The Door</title>
-		<link>./../../../portfolio/the-door-v2/index.html</link>
+		<link>/portfolio/the-door-v2/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sun, 17 Sep 2017 09:49:48 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=137</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=137</guid>
 
 					<description><![CDATA[Commentary Commentary The Door is a first person, atmospheric puzzle experience. What lies beyond the door? No one knows. You have to get past it first! The Door is a level design prototype meant to be representative of the beginning of a puzzle game that revolves around a few central mechanics. In this area, we see ...]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="137" class="elementor elementor-137" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="137" class="elementor elementor-137 elementor-bc-flex-widget" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-57e06943 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57e06943" data-element_type="section">
@@ -1270,10 +1270,11 @@
 				<div class="elementor-element elementor-element-7759bab6 elementor-align-center elementor-widget elementor-widget-button" data-id="7759bab6" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://drive.google.com/file/d/1sHj1T8ebySsrt3XfzE6a0sg5oBA3rJcD/view?usp=sharing" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
 						<span class="elementor-button-text">Download</span>
 		</span>
 					</a>
@@ -1286,7 +1287,8 @@
 			<a href="https://github.com/TheNickOfTime/The-Door" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fab fa-github"></i>			</span>
+									<i class="fa fa-github" aria-hidden="true"></i>
+							</span>
 						<span class="elementor-button-text">Source</span>
 		</span>
 					</a>
@@ -1313,7 +1315,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot01.jpg" alt="NickCunningham_TheDoor_Screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot02.jpg" alt="NickCunningham_TheDoor_Screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot03-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot04.jpg" alt="NickCunningham_TheDoor_Screenshot04" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot01-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot02-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot03-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot04-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot04" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>

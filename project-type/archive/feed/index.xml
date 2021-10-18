@@ -12,10 +12,10 @@
 
 <channel>
 	<title>Archive &#8211; Nick Cunningham</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://192.168.1.2/project-type/archive/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Game Designer</description>
-	<lastBuildDate>Mon, 18 Oct 2021 20:25:08 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jul 2020 01:29:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,19 +24,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
 	<title>Archive &#8211; Nick Cunningham</title>
-	<link>./../../../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>A Thief&#8217;s Tale</title>
-		<link>./../../../portfolio/a-thiefs-tale/index.html</link>
+		<link>/portfolio/a-thiefs-tale/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sun, 10 Feb 2019 07:04:22 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=720</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=720</guid>
 
 					<description><![CDATA[A Thief&#8217;s Tale is a semester-long collaborative project that was worked on by a group of my peers as a class. Primarily I worked on the second area of the game, called &#8220;The Courtyard.&#8221; I worked with Garry McGee to completely rework this area from the ground up, from what it had been from the ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="720" class="elementor elementor-720 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -76,11 +76,11 @@
 			</item>
 		<item>
 		<title>Fart-ernity</title>
-		<link>./../../../portfolio/fart-ernity/index.html</link>
+		<link>/portfolio/fart-ernity/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 09:15:12 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=714</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=714</guid>
 
 					<description><![CDATA[Fart-ernity was an entry into the GMTK Game Jam 2018. The premise was to make a game of a certain genre while having it lack a signature mechanic of that genre. Garry McGee, Elijah Mazur and myself decided to make a stealth genre game without any physical objects to hide behind. The theme we applied ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="714" class="elementor elementor-714 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -142,11 +142,11 @@
 			</item>
 		<item>
 		<title>Therapy Game</title>
-		<link>./../../../portfolio/therapy-game/index.html</link>
+		<link>/portfolio/therapy-game/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 08:03:10 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=695</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=695</guid>
 
 					<description><![CDATA[Documentation This is a pitch for an AR based physical therapy game for children with cerebral palsy. This was an assignment for a class where we were prompted to come up with the concept for a game that could help children who are sick or disabled in some way. In addition to that, our client ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="695" class="elementor elementor-695 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -167,7 +167,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1McsNJO6hl0b5Od_0RxFl9kruqke75Y0v">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/TherapyGame_Thumbnail_Documentation-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="TherapyGame_Thumbnail_Documentation" alt="TherapyGame_Thumbnail_Documentation" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/TherapyGame_Thumbnail_Documentation-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="TherapyGame_Thumbnail_Documentation" alt="TherapyGame_Thumbnail_Documentation" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Documentation</figcaption>
 										</figure>
 								</div>
@@ -225,11 +225,11 @@
 			</item>
 		<item>
 		<title>Kroc Center</title>
-		<link>./../../../portfolio/kroc-center/index.html</link>
+		<link>/portfolio/kroc-center/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 08:02:38 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=693</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=693</guid>
 
 					<description><![CDATA[For this project, we were asked to prototype a game comissioned by the Kroc Center in San Francisco. The Kroc Center was looking for a game of some kind which would prompt youths to engage with their physical community more and partake in the betterment of it too. We came up with a simple game ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="693" class="elementor elementor-693 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -279,11 +279,11 @@
 			</item>
 		<item>
 		<title>Plateau</title>
-		<link>./../../../portfolio/plateau/index.html</link>
+		<link>/portfolio/plateau/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 08:01:52 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=691</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=691</guid>
 
 					<description><![CDATA[Plateau is a level design project made as a single mission that would take place in a larger scale RPG. In this mission, you take on the role of a bounty hunter who responds to a job posting on an isolated village on a plateau in the mountains. Download Documentation Walkthrough Map Timeline Asset List ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="691" class="elementor elementor-691 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -333,7 +333,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-1.png" alt="NickCunningham_Plateau-1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-2.png" alt="NickCunningham_Plateau-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-3.png" alt="NickCunningham_Plateau-3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-4.png" alt="NickCunningham_Plateau-4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-5.png" alt="NickCunningham_Plateau-5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-6.png" alt="NickCunningham_Plateau-6" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-1-768x432.png" alt="NickCunningham_Plateau-1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-2-768x432.png" alt="NickCunningham_Plateau-2" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-3-768x432.png" alt="NickCunningham_Plateau-3" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-4-768x432.png" alt="NickCunningham_Plateau-4" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-5-768x432.png" alt="NickCunningham_Plateau-5" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Plateau/NickCunningham_Plateau-6-768x432.png" alt="NickCunningham_Plateau-6" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -382,7 +382,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1OJ39pMk_F-b1KbpCa2FW8iTObp5Wx5_6">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Walkthrough" alt="Plateau_Thumbnail_Walkthrough" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Walkthrough-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Walkthrough" alt="Plateau_Thumbnail_Walkthrough" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Walkthrough</figcaption>
 										</figure>
 								</div>
@@ -399,7 +399,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1EbNLueOmtfkG8HqDdLTdI3b0TdfZss4h">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Map" alt="Plateau_Thumbnail_Map" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Map-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Map" alt="Plateau_Thumbnail_Map" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Map</figcaption>
 										</figure>
 								</div>
@@ -416,7 +416,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=19HXfhk8AhexepUCRgF6-rszhefUvWaOS">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Timeline-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Timeline" alt="Plateau_Thumbnail_Timeline" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Timeline-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Timeline" alt="Plateau_Thumbnail_Timeline" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Timeline</figcaption>
 										</figure>
 								</div>
@@ -439,7 +439,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1t2HnXGYQxMsH6tFzotE9dwRkPMca4UsJ">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_AssetList-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_AssetList" alt="Plateau_Thumbnail_AssetList" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_AssetList-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_AssetList" alt="Plateau_Thumbnail_AssetList" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Asset List</figcaption>
 										</figure>
 								</div>
@@ -456,7 +456,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1bC2mIL8bpMrkV_DnXxAKG4m3QqHyg27z">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Reference-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Reference" alt="Plateau_Thumbnail_Reference" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/Plateau_Thumbnail_Reference-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="Plateau_Thumbnail_Reference" alt="Plateau_Thumbnail_Reference" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Reference</figcaption>
 										</figure>
 								</div>
@@ -484,11 +484,11 @@
 			</item>
 		<item>
 		<title>Critical Mass</title>
-		<link>./../../../portfolio/critical-mass/index.html</link>
+		<link>/portfolio/critical-mass/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 21 Apr 2018 02:25:12 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=402</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=402</guid>
 
 					<description><![CDATA[Introduction Critical Mass is a relatively simple mini game, where you control a small star that travels around space eating up matter to get bigger and bigger. This was a a quick project completed by myself over the course of a few days. This game took 3rd place prize at Academy of Art University’s Spring Show for Game Prototype in 2018. ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="402" class="elementor elementor-402 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -513,7 +513,7 @@
 				<div class="elementor-element elementor-element-35270c03 elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="35270c03" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;zoomIn&quot;}" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img width="1920" height="1080" src="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="404" data-permalink="./../../../nickcunningham_criticalmass_screenshot01/index.html" data-orig-file="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NickCunningham_CriticalMass_Screenshot01" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" data-large-file="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" />														</div>
+												<img width="1920" height="1080" src="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png 1920w, /wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-300x169.png 300w, /wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-768x432.png 768w, /wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-1024x576.png 1024w, /wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-738x415.png 738w, /wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-1458x820.png 1458w, /wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-996x560.png 996w" sizes="(max-width: 1920px) 100vw, 1920px" data-attachment-id="404" data-permalink="/nickcunningham_criticalmass_screenshot01/" data-orig-file="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" data-orig-size="1920,1080" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="NickCunningham_CriticalMass_Screenshot01" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-300x169.png" data-large-file="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-1024x576.png" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-b9b2c4d elementor-widget elementor-widget-spacer" data-id="b9b2c4d" data-element_type="widget" data-widget_type="spacer.default">
@@ -557,7 +557,7 @@
 				<div class="elementor-element elementor-element-362f2289 elementor-widget elementor-widget-text-editor" data-id="362f2289" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>This game was made for a class focused on rapid prototyping. The prompt for this particular project was to make a top-down shooter style game, but there had to be some kind of &#8220;twist&#8221; to it. This twist could be tweaking the genre, or having an unexpected story twist.</p><p>I was already working on studying and <a style="background-color: #ffffff;" href="./../../../portfolio/notline-miami/index.html">replicating <em>Hotline Miami</em></a>, so I wanted to take this particular project in a different direction.</p>					</div>
+				<p>This game was made for a class focused on rapid prototyping. The prompt for this particular project was to make a top-down shooter style game, but there had to be some kind of &#8220;twist&#8221; to it. This twist could be tweaking the genre, or having an unexpected story twist.</p><p>I was already working on studying and <a style="background-color: #ffffff;" href="/portfolio/notline-miami/">replicating <em>Hotline Miami</em></a>, so I wanted to take this particular project in a different direction.</p>					</div>
 						</div>
 				</div>
 						</div>
@@ -639,15 +639,15 @@
 				</div>
 				<div class="elementor-element elementor-element-6a8a969f elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="6a8a969f" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/CriticalMass_Clip01.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="623" data-permalink="./../../../criticalmass_clip01/index.html" data-orig-file="./../../../wp-content/uploads/CriticalMass_Clip01.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CriticalMass_Clip01" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CriticalMass_Clip01.gif" data-large-file="./../../../wp-content/uploads/CriticalMass_Clip01.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Since I was removing the shooting aspect of the top-down shooter genre, I needed a different way for the player to interact with the world. Since the focus of this game was shifted away from violence, I thought a good alternative to a traditional weapon would be tool to help the player collect more space-bits. To match the theme, the player controls a solar flare with their mouse pointer that acts as a collection net. While the execution of it looks much more tentacl-ey than solar flarish, it became a very engaging aspect of the gameplay.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/CriticalMass_Clip01.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="623" data-permalink="/criticalmass_clip01/" data-orig-file="/wp-content/uploads/CriticalMass_Clip01.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CriticalMass_Clip01" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CriticalMass_Clip01-300x169.gif" data-large-file="/wp-content/uploads/CriticalMass_Clip01.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description">Since I was removing the shooting aspect of the top-down shooter genre, I needed a different way for the player to interact with the world. Since the focus of this game was shifted away from violence, I thought a good alternative to a traditional weapon would be tool to help the player collect more space-bits. To match the theme, the player controls a solar flare with their mouse pointer that acts as a collection net. While the execution of it looks much more tentacl-ey than solar flarish, it became a very engaging aspect of the gameplay.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4f30853c elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4f30853c" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/CriticalMass_Clip03.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="622" data-permalink="./../../../criticalmass_clip03/index.html" data-orig-file="./../../../wp-content/uploads/CriticalMass_Clip03.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CriticalMass_Clip03" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CriticalMass_Clip03.gif" data-large-file="./../../../wp-content/uploads/CriticalMass_Clip03.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">Aside from being a simple collection tool, the flare is used as a defense mechanism against larger objects that are pulled towards the player. While I wanted to remove the violent aspects of the top-down shooter genre, I wanted to retain low-risk threats to vary the gameplay. If the larger objects hit the player, they lose just a small amount of their mass, nothing too serious, though you don't wanna get hit multiple times in a row. Fortunately they are pretty easy to hit, and the reward for hitting them with your solar flare is a nice little kaboom and a healthy deposit of space-bits</span> to be eaten up.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/CriticalMass_Clip03.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="622" data-permalink="/criticalmass_clip03/" data-orig-file="/wp-content/uploads/CriticalMass_Clip03.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CriticalMass_Clip03" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CriticalMass_Clip03-300x169.gif" data-large-file="/wp-content/uploads/CriticalMass_Clip03.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">Aside from being a simple collection tool, the flare is used as a defense mechanism against larger objects that are pulled towards the player. While I wanted to remove the violent aspects of the top-down shooter genre, I wanted to retain low-risk threats to vary the gameplay. If the larger objects hit the player, they lose just a small amount of their mass, nothing too serious, though you don't wanna get hit multiple times in a row. Fortunately they are pretty easy to hit, and the reward for hitting them with your solar flare is a nice little kaboom and a healthy deposit of space-bits</span> to be eaten up.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4df7c585 elementor-position-right elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4df7c585" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="./../../../wp-content/uploads/CriticalMass_Clip02.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="621" data-permalink="./../../../criticalmass_clip02/index.html" data-orig-file="./../../../wp-content/uploads/CriticalMass_Clip02.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CriticalMass_Clip02" data-image-description="" data-image-caption="" data-medium-file="./../../../wp-content/uploads/CriticalMass_Clip02.gif" data-large-file="./../../../wp-content/uploads/CriticalMass_Clip02.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">One of the things I wanted to feel rewarding was how the player's progress in collecting space-bits is represented. The first way I did this was by gradually increasing the player's size as more matter is collected. I scaled it so the player grows more rapidly at the start, so the impact is felt immediately. To compensate for the slower growth later in the game, I thought it would be interesting to have the planet's color change over time as well -&nbsp;</span>not to mention that stars actually change color at different points in their lifecycle. I also wanted the player to feel the impact of their size in game too - so as the player grows, their gravitational pull radius inscreases too, allowing the player to collect more space-bits that are nearby.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="480" height="270" src="/wp-content/uploads/CriticalMass_Clip02.gif" class="attachment-full size-full" alt="" loading="lazy" data-attachment-id="621" data-permalink="/criticalmass_clip02/" data-orig-file="/wp-content/uploads/CriticalMass_Clip02.gif" data-orig-size="480,270" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CriticalMass_Clip02" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/CriticalMass_Clip02-300x169.gif" data-large-file="/wp-content/uploads/CriticalMass_Clip02.gif" /></figure><div class="elementor-image-box-content"><p class="elementor-image-box-description"><span style="white-space: normal;">One of the things I wanted to feel rewarding was how the player's progress in collecting space-bits is represented. The first way I did this was by gradually increasing the player's size as more matter is collected. I scaled it so the player grows more rapidly at the start, so the impact is felt immediately. To compensate for the slower growth later in the game, I thought it would be interesting to have the planet's color change over time as well -&nbsp;</span>not to mention that stars actually change color at different points in their lifecycle. I also wanted the player to feel the impact of their size in game too - so as the player grows, their gravitational pull radius inscreases too, allowing the player to collect more space-bits that are nearby.</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-44502e69 elementor-widget elementor-widget-spacer" data-id="44502e69" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -691,7 +691,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01.png" alt="NickCunningham_CriticalMass_Screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot02.png" alt="NickCunningham_CriticalMass_Screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot03.png" alt="NickCunningham_CriticalMass_Screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot04.png" alt="NickCunningham_CriticalMass_Screenshot04" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot01-738x415.png" alt="NickCunningham_CriticalMass_Screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot02-738x415.png" alt="NickCunningham_CriticalMass_Screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot03-738x415.png" alt="NickCunningham_CriticalMass_Screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_CriticalMass/NickCunningham_CriticalMass_Screenshot04-738x415.png" alt="NickCunningham_CriticalMass_Screenshot04" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -773,14 +773,14 @@
 			</item>
 		<item>
 		<title>The Door</title>
-		<link>./../../../portfolio/the-door-v2/index.html</link>
+		<link>/portfolio/the-door-v2/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sun, 17 Sep 2017 09:49:48 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=137</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=137</guid>
 
 					<description><![CDATA[Commentary Commentary The Door is a first person, atmospheric puzzle experience. What lies beyond the door? No one knows. You have to get past it first! The Door is a level design prototype meant to be representative of the beginning of a puzzle game that revolves around a few central mechanics. In this area, we see ...]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="137" class="elementor elementor-137" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="137" class="elementor elementor-137 elementor-bc-flex-widget" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-57e06943 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57e06943" data-element_type="section">
@@ -844,10 +844,11 @@
 				<div class="elementor-element elementor-element-7759bab6 elementor-align-center elementor-widget elementor-widget-button" data-id="7759bab6" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://drive.google.com/file/d/1sHj1T8ebySsrt3XfzE6a0sg5oBA3rJcD/view?usp=sharing" class="elementor-button-link elementor-button elementor-size-xs" role="button">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
 						<span class="elementor-button-text">Download</span>
 		</span>
 					</a>
@@ -860,7 +861,8 @@
 			<a href="https://github.com/TheNickOfTime/The-Door" class="elementor-button-link elementor-button elementor-size-xs" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fab fa-github"></i>			</span>
+									<i class="fa fa-github" aria-hidden="true"></i>
+							</span>
 						<span class="elementor-button-text">Source</span>
 		</span>
 					</a>
@@ -887,7 +889,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot01.jpg" alt="NickCunningham_TheDoor_Screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot02.jpg" alt="NickCunningham_TheDoor_Screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot03-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot04.jpg" alt="NickCunningham_TheDoor_Screenshot04" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot01-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot02-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot03-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DoorV3/NickCunningham_TheDoor_Screenshot04-1024x576.jpg" alt="NickCunningham_TheDoor_Screenshot04" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -916,11 +918,11 @@
 			</item>
 		<item>
 		<title>Hexpanse</title>
-		<link>./../../../portfolio/hexpanse/index.html</link>
+		<link>/portfolio/hexpanse/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Thu, 25 May 2017 13:54:21 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=110</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=110</guid>
 
 					<description><![CDATA[A mobile city-builder game for iOS and Android. This was a project I worked on in two parts, first as a UI/UX concept, and then actually building the game at a later date.
 ]]></description>
@@ -947,7 +949,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_01.png" alt="NickCunningham_Hexpanse_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_02.png" alt="NickCunningham_Hexpanse_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_03.png" alt="NickCunningham_Hexpanse_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_04.png" alt="NickCunningham_Hexpanse_04" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_01-768x480.png" alt="NickCunningham_Hexpanse_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_02-768x480.png" alt="NickCunningham_Hexpanse_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_03-768x480.png" alt="NickCunningham_Hexpanse_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_04-768x480.png" alt="NickCunningham_Hexpanse_04" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -963,10 +965,11 @@
 				<div class="elementor-element elementor-element-59763b7 elementor-align-center elementor-widget elementor-widget-button" data-id="59763b7" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://drive.google.com/file/d/1CI9v4KGQjpANMUt62kPxyDX5Du2Z3ICH/view?usp=sharing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="/wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_Build.zip" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
-				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
 						<span class="elementor-button-text">Download (APK)</span>
 		</span>
 					</a>
@@ -1011,14 +1014,14 @@
 			</item>
 		<item>
 		<title>Diamond Heist</title>
-		<link>./../../../portfolio/diamond-heist/index.html</link>
+		<link>/portfolio/diamond-heist/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Wed, 24 May 2017 16:17:04 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=91</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=91</guid>
 
 					<description><![CDATA[A stealth VR experience for the HTC Vive. Use tools and quick thinking to escape traps and puzzles unoticed.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91" data-elementor-settings="[]">
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="91" class="elementor elementor-91 elementor-bc-flex-widget" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-672107e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="672107e9" data-element_type="section">
@@ -1037,7 +1040,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_01.jpg" alt="NickCunningham_DiamondHeist_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_02.jpg" alt="NickCunningham_DiamondHeist_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_03.jpg" alt="NickCunningham_DiamondHeist_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_04.jpg" alt="NickCunningham_DiamondHeist_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_05.jpg" alt="NickCunningham_DiamondHeist_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_06.jpg" alt="NickCunningham_DiamondHeist_06" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_01-768x406.jpg" alt="NickCunningham_DiamondHeist_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_02-768x406.jpg" alt="NickCunningham_DiamondHeist_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_03-768x406.jpg" alt="NickCunningham_DiamondHeist_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_04-768x406.jpg" alt="NickCunningham_DiamondHeist_04" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_05-768x406.jpg" alt="NickCunningham_DiamondHeist_05" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_06-768x406.jpg" alt="NickCunningham_DiamondHeist_06" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
@@ -1061,10 +1064,11 @@
 				<div class="elementor-element elementor-element-3223b5f elementor-align-center elementor-widget elementor-widget-button" data-id="3223b5f" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://drive.google.com/file/d/1GqoBvUUc-cKdA1QZaD54YH-gkaDplWol/view?usp=sharing" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="/wp-content/uploads/Portfolio/Portfolio_DiamondHeist/NickCunningham_DiamondHeist_Build.zip" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
-				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+									<i class="fa fa-windows" aria-hidden="true"></i>
+							</span>
 						<span class="elementor-button-text">Download</span>
 		</span>
 					</a>

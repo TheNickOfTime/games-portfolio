@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Pitch &#8211; Nick Cunningham</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://192.168.1.2/project-type/pitches/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Game Designer</description>
 	<lastBuildDate>Fri, 17 Jul 2020 01:29:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,19 +24,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
 	<title>Pitch &#8211; Nick Cunningham</title>
-	<link>./../../../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Therapy Game</title>
-		<link>./../../../portfolio/therapy-game/index.html</link>
+		<link>/portfolio/therapy-game/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 08:03:10 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=695</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=695</guid>
 
 					<description><![CDATA[Documentation This is a pitch for an AR based physical therapy game for children with cerebral palsy. This was an assignment for a class where we were prompted to come up with the concept for a game that could help children who are sick or disabled in some way. In addition to that, our client ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="695" class="elementor elementor-695 elementor-bc-flex-widget" data-elementor-settings="[]">
@@ -57,7 +57,7 @@
 								<div class="elementor-image">
 									<figure class="wp-caption">
 											<a href="https://drive.google.com/open?id=1McsNJO6hl0b5Od_0RxFl9kruqke75Y0v">
-							<img src="./../../../wp-content/uploads/elementor/thumbs/TherapyGame_Thumbnail_Documentation-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="TherapyGame_Thumbnail_Documentation" alt="TherapyGame_Thumbnail_Documentation" />								</a>
+							<img src="/wp-content/uploads/elementor/thumbs/TherapyGame_Thumbnail_Documentation-p3r5nuf78lpqniripcqooed2pr1cfpfg3n128r4n9s.png" title="TherapyGame_Thumbnail_Documentation" alt="TherapyGame_Thumbnail_Documentation" />								</a>
 											<figcaption class="widget-image-caption wp-caption-text">Documentation</figcaption>
 										</figure>
 								</div>
@@ -115,11 +115,11 @@
 			</item>
 		<item>
 		<title>Kroc Center</title>
-		<link>./../../../portfolio/kroc-center/index.html</link>
+		<link>/portfolio/kroc-center/</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sat, 09 Feb 2019 08:02:38 +0000</pubDate>
-				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=693</guid>
+				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=693</guid>
 
 					<description><![CDATA[For this project, we were asked to prototype a game comissioned by the Kroc Center in San Francisco. The Kroc Center was looking for a game of some kind which would prompt youths to engage with their physical community more and partake in the betterment of it too. We came up with a simple game ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="693" class="elementor elementor-693 elementor-bc-flex-widget" data-elementor-settings="[]">
