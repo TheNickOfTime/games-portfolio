@@ -12,10 +12,10 @@
 
 <channel>
 	<title>Design Document &#8211; Nick Cunningham</title>
-	<atom:link href="http://192.168.1.2/project-type/design-doc/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Game Designer</description>
-	<lastBuildDate>Fri, 17 Jul 2020 01:21:56 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Oct 2021 05:32:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,19 +24,19 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
 	<title>Design Document &#8211; Nick Cunningham</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>The Outpost</title>
-		<link>/portfolio/the-outpost/</link>
+		<link>./../../../portfolio/the-outpost/index.html</link>
 		
 		<dc:creator><![CDATA[Nick]]></dc:creator>
 		<pubDate>Sun, 30 Jun 2019 06:27:28 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=jetpack-portfolio&#038;p=810</guid>
+				<guid isPermaLink="false">http://192.168.1.2:8181/?post_type=jetpack-portfolio&#038;p=810</guid>
 
 					<description><![CDATA[Introduction The Outpost is a comprehensive, yet adapatable, Game Design Document for a unique Zombie Survival FPS. I constructed this in-depth plan from the ground up over the course of a semster. I have laid out the details from the core gameplay loops, to the narrative, down to suggested individual stats of the weapons present ...]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="810" class="elementor elementor-810" data-elementor-settings="[]">
@@ -61,6 +61,18 @@
 				<div class="elementor-element elementor-element-1354653 elementor-widget elementor-widget-heading" data-id="1354653" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-medium">GDD:</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-69d1119 elementor-invisible elementor-widget elementor-widget-alert" data-id="69d1119" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;pulse&quot;}" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-alert elementor-alert-warning" role="alert">
+			<span class="elementor-alert-title">IF YOU ARE UNABLE TO ACCESS THIS DOCUMENT!!!</span>
+							<span class="elementor-alert-description">Please open this page in a private browsing window. You are likely logged into a company google account that has placed restrictions on viewing external documents.</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<span aria-hidden="true">&times;</span>
+					<span class="elementor-screen-only">Dismiss alert</span>
+				</button>
+					</div>
+				</div>
 				</div>
 				<div class="elementor-element elementor-element-912fa80 elementor-widget elementor-widget-html" data-id="912fa80" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
