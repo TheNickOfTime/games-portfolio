@@ -12,10 +12,10 @@
 
 <channel>
 	<title>Nick Cunningham</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="http://192.168.1.2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Game Designer</description>
-	<lastBuildDate>Mon, 18 Oct 2021 20:25:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 May 2019 19:12:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,11 +24,244 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>/wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
 	<title>Nick Cunningham</title>
-	<link>./../index.html</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-</channel>
+	<item>
+		<title>Dungeon of Greyness &#8211; Award Winning</title>
+		<link>/2019/05/27/dungeon-of-greyness-award-winning/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Mon, 27 May 2019 19:12:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=805</guid>
+
+					<description><![CDATA[I am happy to announce that my game prototype, Dungeon of Greyness, won Best Game Prototype at Academy of Art University&#8217;s 2019 Spring Show. I put a lot of work into making this game the most fun I could, so I am absolutely thrilled to see it win. This is also the second year in ...]]></description>
+										<content:encoded><![CDATA[
+<p>I am happy to announce that my game prototype, Dungeon of Greyness, won <em>Best Game Prototype</em> at Academy of Art University&#8217;s 2019 Spring Show. I put a lot of work into making this game the most fun I could, so I am absolutely thrilled to see it win.</p>
+
+
+
+<p>This is also the second year in a row that I have won the award, and also the second year the awards have run, so I am currently undefeated in this category!</p>
+
+
+
+<p>I look forward to seeing someone else take the award next year, as I also just graduated. I am currently looking for a job and I am very excited about the future!</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" class="youtube-player" width="480" height="270" src="https://www.youtube.com/embed/kltiqeAuybo?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>First Person Combat</title>
+		<link>/2019/05/12/first-person-combat/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Sun, 12 May 2019 16:11:20 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=802</guid>
+
+					<description><![CDATA[I have recently been working in Unreal 4 to make a first-person combat focused game. Dishonored was the primary inspiration for the base format, but I want the gameplay to have less focus on stealth. Additionally, I wanted it to be a situation of Swords (the player) vs. Guns (the enemy). This will require the ...]]></description>
+										<content:encoded><![CDATA[
+<p>I have recently been working in Unreal 4 to make a first-person combat focused game. Dishonored was the primary inspiration for the base format, but I want the gameplay to have less focus on stealth. Additionally, I wanted it to be a situation of Swords (the player) vs. Guns (the enemy). This will require the player to be quick on their feet and use their arsenal in the most effective way.</p>
+
+
+
+<p>I have only been working on it for a few weeks at this point, but I have the basic player actions and basic enemy AI implemented at this point. Take a look below and keep an eye out for more updates!</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" class="youtube-player" width="480" height="270" src="https://www.youtube.com/embed/4G3rxEhL_ko?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation"></iframe></div>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Farternity</title>
+		<link>/2018/09/02/farternity/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2018 23:18:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=610</guid>
+
+					<description><![CDATA[I just finished participating in the GMTK 2018 game jam. I worked with my good friends Garry and Elijah during this jam! With the prompt of making a game of a particular genre, but lacking one of the core features of that genre, the three of us came up with some wacky ideas. Our game ...]]></description>
+										<content:encoded><![CDATA[<p><img class="aligncenter" src="https://img.itch.zone/aW1hZ2UvMzAxMTE1LzE0NzI4MTMuanBn/347x500/Nh%2Fq2%2B.jpg" /></p>
+<p>I just finished participating in the GMTK 2018 game jam. I worked with my good friends <a href="http://garrymcgee.com/">Garry</a> and <a href="https://www.elijahmazur.com/">Elijah</a> during this jam! With the prompt of making a game of a particular genre, but lacking one of the core features of that genre, the three of us came up with some wacky ideas. Our game concept was a stealth game with nowhere to hide. The premise ended up being that you are a dude at a party, but you constantly need to fart.</p>
+<p>You can&#8217;t hide farts, so you have to cover them up in plain sight. Using distractions such as a smelly trash can, or a loud speaker, you have to methodically cover up your farts of different qualities such as smelly and silent, or odorless but loud.</p>
+<p>Overall this was a very fun experience and my friends and I made a dumb little game that we can be proud of.</p>
+<h5>Check it out on <a href="https://aeuron.itch.io/farternity">itch.io</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Notline Miami</title>
+		<link>/2017/12/21/notline-miami/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2017 04:18:01 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=221</guid>
+
+					<description><![CDATA[Notline Miami was the final project for two of my classes this semester. My goal was to combine the requirements of my UI scripting class and my gameplay scripting class to make a more complete game. Ultimately I wanted to create something that heavily mimicked the style of Hotline Miami (hence the name). For the gameplay, ...]]></description>
+										<content:encoded><![CDATA[<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe loading="lazy" src="https://player.vimeo.com/video/253369586" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Notline Miami was the final project for two of my classes this semester. My goal was to combine the requirements of my UI scripting class and my gameplay scripting class to make a more complete game. Ultimately I wanted to create something that heavily mimicked the style of Hotline Miami (hence the name).</p>
+<p>For the gameplay, I wanted a few things. Namely guns, enemies, and the objective which is to just kill everyone. The gun system was really fun to make and ended up being quite complex. I am very happy with how it turned out. That being said I wish I had time to implement melee weapons. The enemy AI was quite difficult to make, as all AI is. It is far from perfect, and this is probably the most choppy part of the project, but at the end of the day, AI is not my focus as a designer. The guns, enemy, and player come together to create a gameplay experience that is more like Hotline Miami than it is not, and I am happy about this. Given the period I had to work on this (~2 weeks) I am quite happy with the end result.</p>
+<p>The UI side of this is probably what I enjoyed the most. On the functionality side of things, I enjoy scripting for UI more interesting and fun than other focuses (ahem&#8230; AI). Something great that I have taken away is a handful of scripts that I wrote that make certain generic UI tasks essentially drag and drop, no unique code required. These scripts will be a great foundation for the UI in my future projects. On the visual side of things for the UI, I really wanted to nail the aesthetic of the game. If it were up to me, I would have made it as close to 1:1 as possible, but I had certain grading requirements that forced me to deviate from the source. A great example of this would be the process of respawning. In the Hotline Miami it simply tells you to press &#8216;R&#8217; to respawn, but I had to have a dedicated screen with several other buttons on this &#8216;Game Over&#8217; screen. Overall I think that I nailed the style of UI in Hotline Miami. The funny thing is that I didn&#8217;t need to do this at all, as visuals were not a grading point of the assignment, but I figured if I was going to do it at all, I may as well do it right. While I got no extra points for the visual aspects of the project, I definitely learned a lot of things in the process, namely certain UI design principles, the importance of animations, motion, and use of color. I am not an artist, but these skills are important in many aspects of design.</p>
+<p>Ultimately, I am very happy with this project. It is by far the most complicated code I have written to this point, and in the process, I learned a lot. Unfortunately, aside from the UI, design became something of an afterthought, as I became so absorbed into the technical side of things. Because of this, I cannot see this becoming a portfolio piece, but it will have a special place with this post, as well as in my heart. I have linked the playable build and Github page below!</p>
+<h5>Download Build <a href="/wp-content/uploads/Blog/Notline-Miami.zip">Here</a></h5>
+<h5>Project Source <a href="https://github.com/TheNickOfTime/Notline-Miami">Here</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Down</title>
+		<link>/2017/12/20/down/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Wed, 20 Dec 2017 04:46:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=228</guid>
+
+					<description><![CDATA[Another 2 week project. The only guideline given was that the player must go in a downwards direction, never going up. I made a minigame where you are a miner, suspended by grapling hooks. A boulder is slowly falling down, but you must keep mining to get a high score. Obviously this concept is somewhat shallow, ...]]></description>
+										<content:encoded><![CDATA[<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe loading="lazy" src="https://player.vimeo.com/video/253371808" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Another 2 week project. The only guideline given was that the player must go in a downwards direction, never going up. I made a minigame where you are a miner, suspended by grapling hooks. A boulder is slowly falling down, but you must keep mining to get a high score. Obviously this concept is somewhat shallow, but with a few added things such as pickups, challenges or a goal of some kind and this could potentially be a small mobile game.</p>
+<h5>Download <a href="/wp-content/uploads/Blog/Down_Build.zip">Here</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Jumpman</title>
+		<link>/2017/11/30/jumpman/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2017 04:55:12 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=231</guid>
+
+					<description><![CDATA[I was tasked with taking a mechanic from any game and replicating it at its most basic level of functionality, where it is still fun. Having just played Super Mario Odyssey, I was interested in replicating some of Mario&#8217;s movement mechanics. I did not have the time to replicate the signature &#8216;Cappy throw&#8217; from the ...]]></description>
+										<content:encoded><![CDATA[<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe loading="lazy" src="https://player.vimeo.com/video/253371850" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>I was tasked with taking a mechanic from any game and replicating it at its most basic level of functionality, where it is still fun. Having just played Super Mario Odyssey, I was interested in replicating some of Mario&#8217;s movement mechanics. I did not have the time to replicate the signature &#8216;Cappy throw&#8217; from the game, but I was able to replicate his famous triple jump, crouch jump, ground pound, and ground pound jump. From a design perspective, these moves all have unique situations where they aid in Mario&#8217;s mobility. This was a fun project that forced me to simplify the tech side of things and focus on fine tuning numbers on the design side of things to get it feeling just right. While there is room for improvement, I am quite happy with completing this in just a few hours, as I changed my mind on this assignment last minute. I recommend playing it, it is actually a fun little sample level to jump around in!</p>
+<h5>Download <a href="/wp-content/uploads/Blog/Jumpman_Build.zip">Here</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Space n&#8217; Shit</title>
+		<link>/2017/11/15/space-n-shit/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Wed, 15 Nov 2017 05:05:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=234</guid>
+
+					<description><![CDATA[This is another 2 week design project. The goal was to create a twin-stick-shooter type game that had some sort of twist in the gameplay and &#8216;story&#8217; of it. The story side of things is that you play as a small star who wants to become a big star. You float around outer space, picking ...]]></description>
+										<content:encoded><![CDATA[<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe loading="lazy" src="https://player.vimeo.com/video/253371888" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>This is another 2 week design project. The goal was to create a twin-stick-shooter type game that had some sort of twist in the gameplay and &#8216;story&#8217; of it. The story side of things is that you play as a small star who wants to become a big star. You float around outer space, picking up colorful bits of space dust, growing bigger and bigger, until you become so big that you implode and become a black hole. On the gameplay side of things, rather than shooting projectiles, the player controls a large solar flare that the star shoots out. This is primarily used as a tentacle of sorts to gather in more bits of space dust but is also your first defense against other stars and planets that come crashing at you, once you gain a large enough gravitational force. Creating the solar flare was a challenge, but ultimately the time was worth it, as it feels very nice to control and adds a ton of novelty to playing this minigame. Overall this was a fun project that ended up being a good split of design and technical focus.</p>
+<h5>Download <a href="/wp-content/uploads/Blog/Space_N_Shit_Build.zip">Here</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Food</title>
+		<link>/2017/10/20/food-part-1/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 08:33:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=200</guid>
+
+					<description><![CDATA[My most recent 2-week project, hot out of the oven! Our objective was to make a game having to do with food, and tied to a brand. I ended up making a Blue Apron game. Initially, I was going to just have a kitchen based cooking game, but then I realized that was boring. I ...]]></description>
+										<content:encoded><![CDATA[<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe loading="lazy" src="https://player.vimeo.com/video/239070339" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>My most recent 2-week project, hot out of the oven! Our objective was to make a game having to do with food, and tied to a brand. I ended up making a Blue Apron game. Initially, I was going to just have a kitchen based cooking game, but then I realized that was boring.</p>
+<p>I ended up going with something more surreal, where you are cooking giant food, on a giant pan, for a giant Easter Island Head. This ended up being far more amusing, and the project overall ended up being quite challenging; all good things!</p>
+<h5>Download <a href="/wp-content/uploads/Blog/Food_Build.zip">Here</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Time: Part 1</title>
+		<link>/2017/10/20/time-part-1/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 08:21:49 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=194</guid>
+
+					<description><![CDATA[Another 2-week project, but posting about 2 weeks late. Our objective was to make a game based on time. This prototype features a very rapid day/night cycle, borrowing some stuff from my &#8220;Summer Laziness&#8221; experiment. During the day it is blazing hot, and the player can only walk on shadows. At night it is freezing, and ...]]></description>
+										<content:encoded><![CDATA[<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+<div class="embed-container"><iframe loading="lazy" src="https://player.vimeo.com/video/239074039" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Another 2-week project, but posting about 2 weeks late. Our objective was to make a game based on time. This prototype features a very rapid day/night cycle, borrowing some stuff from my &#8220;Summer Laziness&#8221; experiment. During the day it is blazing hot, and the player can only walk on shadows. At night it is freezing, and the player needs to remain near heat.</p>
+<p>I had fun working on this, but the level ended up being somewhat rushed, as I left my hard drive in class and didn&#8217;t have it until the morning this was due. Hopefully, I can return to this concept again, as I think its pretty fun, but this isn&#8217;t quite where I want it to be.</p>
+<h5>Download <a href="/wp-content/uploads/Blog/Time_Build.zip">Here</a></h5>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pac Man: Part 3</title>
+		<link>/2017/10/20/pac-man-part-3/</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Fri, 20 Oct 2017 00:58:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=212</guid>
+
+					<description><![CDATA[I suppose I will never be done working on this project. Since the last update, I have done quite a few things. The most noticeable difference is that the enemy AI now does some rudimentary, custom pathfinding towards the player, making gameplay more challenging and interesting. Additionally, I rewrote the player and enemy controllers to derive from ...]]></description>
+										<content:encoded><![CDATA[<p>I suppose I will never be done working on this project. Since the last update, I have done quite a few things. The most noticeable difference is that the enemy AI now does some rudimentary, custom pathfinding towards the player, making gameplay more challenging and interesting. Additionally, I rewrote the player and enemy controllers to derive from the same master controller class, I have been wanting to do this for a while now. Other than being easier to work with, it makes the implementation of a rewind time mechanic a lot simpler. The rewind time mechanic is also a new feature, and I will be working on it for the next ~2 weeks. Its functional, but there is a lot more that it could be doing.</p>
+<p><div style="width: 480px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-212-1" width="480" height="270" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/Blog/PacMan_04.mp4?_=1" /><a href="/wp-content/uploads/Blog/PacMan_04.mp4">/wp-content/uploads/Blog/PacMan_04.mp4</a></video></div></p>
+<hr />
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="/wp-content/uploads/2017/10/PacMan_04.mp4" length="36608718" type="video/mp4" />
+
+			</item>
+	</channel>
 </rss>
