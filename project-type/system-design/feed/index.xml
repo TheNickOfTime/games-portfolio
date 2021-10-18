@@ -24,7 +24,7 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-1-50x50.png</url>
+	<url>./../../../wp-content/uploads/Branding/cropped-Logo_v2-32x32.png</url>
 	<title>System Design &#8211; Nick Cunningham</title>
 	<link>./../../../index.html</link>
 	<width>32</width>
@@ -125,7 +125,7 @@
 				<div class="elementor-widget-container">
 					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_01.png" alt="NickCunningham_Hexpanse_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_02.png" alt="NickCunningham_Hexpanse_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_03.png" alt="NickCunningham_Hexpanse_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_04.png" alt="NickCunningham_Hexpanse_04" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_01-768x480.jpg" alt="NickCunningham_Hexpanse_01" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_02-768x480.jpg" alt="NickCunningham_Hexpanse_02" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_03-768x480.jpg" alt="NickCunningham_Hexpanse_03" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="./../../../wp-content/uploads/Portfolio/Portfolio_Hexpanse/NickCunningham_Hexpanse_04-768x480.jpg" alt="NickCunningham_Hexpanse_04" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i class="eicon-chevron-left" aria-hidden="true"></i>
