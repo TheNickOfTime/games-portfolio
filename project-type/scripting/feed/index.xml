@@ -15,7 +15,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>Game Designer</description>
-	<lastBuildDate>Mon, 18 Oct 2021 20:25:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Apr 2022 06:16:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,79 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Temporal Survival</title>
+		<link>./../../../portfolio/temporal-survival/index.html</link>
+		
+		<dc:creator><![CDATA[Nick]]></dc:creator>
+		<pubDate>Mon, 11 Apr 2022 06:12:40 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=jetpack-portfolio&#038;p=954</guid>
+
+					<description><![CDATA[Temporal Survival was the product of a game jam that was put on within the QA department at Naughty Dog in 2021. My team consisted of myself as the game designer, Sami Hagerman as the artist, Phillip Menses as the audio designer, and Aiden Thurston as our producer &#38; design support person. The prompt for ...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="954" class="elementor elementor-954" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-861f353 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="861f353" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-703b76b" data-id="703b76b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-478847d elementor-widget elementor-widget-text-editor" data-id="478847d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>Temporal Survival was the product of a game jam that was put on within the QA department at Naughty Dog in 2021. My team consisted of myself as the game designer, Sami Hagerman as the artist, Phillip Menses as the audio designer, and Aiden Thurston as our producer &amp; design support person.</p><p>The prompt for this project was “Time” &#8211; something must have been in the water since nearly everyone on the team gravitated towards a sci-fi theme with mechanics centered around concepts of relativity, aging rapidly, and using technology to combat this.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6bfe295 elementor-widget elementor-widget-html" data-id="6bfe295" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//xZrxQmIr9OM' frameborder='0' allowfullscreen></iframe></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d6eb4bd elementor-align-center elementor-widget elementor-widget-button" data-id="d6eb4bd" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-windows"></i>			</span>
+						<span class="elementor-button-text">Download</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e80eda8 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="e80eda8" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-120d666 elementor-widget elementor-widget-text-editor" data-id="120d666" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<h1>Overview</h1><p>As the game starts the player is presented with a brief log &#8211; it explains that the player has crash landed on a planet where time moves differently, due to temporal energy that is emitted by crystals covering the surface. The player is presented with a difficult decision to balance &#8211; the crystals recharge the player’s suit and protect them from rapidly aging, but the player must also research the crystals to more permanently survive on the planet.</p><h2>Mechanics</h2><p>The gameplay loop looks like this:</p><ol><li>The player exits their shelter, entering the harsh temporal environment of the planet. Your time is limited out here before your suit charge is drained, and you begin aging rapidly &#8211; eventually dying.</li><li>The player has to mine crystals from the surface of the planet. The mining process is a minigame:<ul><li>The player presses the triggers on the controller, using either haptics, audio, or visual aids to find the “sweet spot” on each trigger (randomized every time).</li><li>The player has to maintain the triggers in this “sweet spot” for a length of time to successfully mine the crystal.</li></ul></li><li>Once the player has a crystal in tow, they can choose to mine more (weighing how much time you have left on your suit charge) or head back to the shelter.</li><li>Once back in the shelter, the player can use their crystals to either recharge their suit, or to progress research on the temporal anomaly. It’s a balancing act.</li><li>Once the player successfully completes research, the player reaches the win condition. If the player fails to manage what they use their crystals for and ages too much, the player dies at the ripe age of 80-something and it is game over!</li></ol><h2>Mining Minigame</h2><p>The minigame is my favorite aspect of this jam. When this project was made, the concepts and use cases for the Dual Sense 5’s adaptive triggers were fresh on my mind. Unfortunately the Unreal Engine does not support Playstation Controllers out of the box so I made do with an Xbox controller and modulating the frequency of the haptic feedback.</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-60f78f9 elementor-widget elementor-widget-html" data-id="60f78f9" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//U9FI2VW2p6U' frameborder='0' allowfullscreen></iframe></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>A Thief&#8217;s Tale</title>
 		<link>./../../../portfolio/a-thiefs-tale/index.html</link>
 		
