@@ -1,3 +1,8 @@
+---
+title: Motorball - The Bounty
+image: '/assets/portfolio_motorball_the_bounty/Motorball_Thumbnail.jpg'
+---
+
 # Introduction
 
 Motorball: The Bounty is a game prototype I created in association with [Garry McGee](http://garrymcgee.com/). The goal we had for this project was to create a rough vertical slice capturing what a cyberpunk-esque RPG set in the Battle Angel Alita universe could be like. This prototype focuses on a bounty hunter mission where the player is hunting down terrorists plotting an attack on the stadium of the popular sport Motorball.
@@ -7,6 +12,7 @@ This project was created in the Unity Engine over the course of about a week. On
 <br>
 
 ![Gallery](/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(1).jpg)
+![Gallery](/assets/portfolio_motorball_the_bounty/Motorball_Thumbnail.jpg)
 
 <br>
 
