@@ -1,3 +1,7 @@
+---
+title: The Outpost
+image: '/assets/portfolio_the_outpost/Outpost_Thumbnail.jpg'
+---
 
 # Introduction
 

@@ -1,4 +1,7 @@
-# Dungeon of Greyness
+---
+title: Dungeon of Greyness
+image: '/assets/portfolio_dungeon_of_greyness/CombatDesign_Thumbnail.png'
+---
 
 # Introduction
 “Dungeon of Greyness” is a game prototype, with a focus on combat design, that I built from the grround up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week.

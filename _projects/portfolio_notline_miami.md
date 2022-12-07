@@ -1,3 +1,8 @@
+---
+title: Notline Miami
+image: '/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_Icon2.png'
+---
+
 # Introduction
 
 Notline Miami is a game prototype I made as a case study – my goal was to attempt to replicate various aspects of the indie hit, Hotline Miami.

@@ -1,4 +1,7 @@
-# Temporal Survival
+---
+title: Temporal Survival
+image: '/assets/portfolio_temporal_survival/TemporalSurvival_Thumbnail.jpg'
+---
 
 ## Introduction
 Temporal Survival was the product of a game jam that was put on within the QA department at Naughty Dog in 2021. My team consisted of myself as the game designer, Sami Hagerman as the artist, Phillip Menses as the audio designer, and Aiden Thurston as our producer & design support person.
