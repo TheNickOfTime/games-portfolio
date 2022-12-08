@@ -3,6 +3,15 @@ title: Dungeon of Greyness
 image: '/assets/portfolio_dungeon_of_greyness/CombatDesign_Thumbnail.png'
 ---
 
+<div style="text-align:center">
+    <a href="https://drive.google.com/open?id=1SfDFLKGJY-mKgDW4A4VHvOuZAO54i5r_" target="_blank" class="button button--primary">Download</a>
+    <a href="https://github.com/TheNickOfTime/Combat-Design" target="_blank" class="button button--primary">Source</a>
+</div>
+
+<br>
+
+<p><iframe src="https://www.youtube.com/embed/KhqVn7GAo8Q" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
 # Introduction
 “Dungeon of Greyness” is a game prototype, with a focus on combat design, that I built from the grround up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week.
 
@@ -10,7 +19,21 @@ Using the Unity Engine, I designed and scripted (C#) everything in this project.
 
 <br>
 
-![Gallery](/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_01.png)
+<div class="gallery-box">
+  <div class="gallery">
+    <!-- <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_01.png" loading="lazy" alt="Car"> -->
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_02.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_03.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_04.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_05.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_06.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_07.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_08.png" loading="lazy" alt="Car">
+    <!-- <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_09.png" loading="lazy" alt="Car"> -->
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_10.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_11.png" loading="lazy" alt="Car">
+  </div>
+</div>
 
 <br>
 
@@ -28,8 +51,6 @@ To keep the scope manageable, I landed on the concept of having individual, smal
 
 I made a limited, but diverse set of enemies. There are two grunt-level melee enemies, one harder “Lieutenant” level melee enemy, and a tricky ranged enemy. In addition to these standard enemies, there is a final boss that possesses all the traits of these enemies plus more.
 
------
-
 ## Result
 My combat project ended up as Dungeon of Greyness. It is a fairly complete, but small prototype that holds a reasonable amount of content (~15 – 20 minutes for new players) and progression. You play as a traveler who fights through seven high-tension rooms filled with aggressive enemies. You are aided by a stranger with upgrades, but little else.
 
@@ -39,8 +60,11 @@ Overall this project was a fantastic experience, both personally and educational
 
 # Highlights
 
-![Player](/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_PlayerMovement.gif)
 ## Player
+<div style="text-align:center">
+    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_PlayerMovement.gif" alt="Player"> 
+</div>
+<br>
 The inspiration for the player combat of this game was Hyper Light Drifter. This is pretty obvious looking at the character because I straight up hand copied each frame of each animation from some gameplay footage I took of HLD. I wanted to stay away from this initially, but unfortunately, I found it impossible to find a top-down game sprite-set that had the dynamic and powerful feeling that the animations of HLD have.
 
 At a base level, the player has a basic attack that can be chained up to three times, increasing in damage each hit of the combo. Near the start of the game, the player is given the ability to dash. The dash allows the player to be fluid in combat, as well as escape sticky situations since there is an invulnerability window during the dash. Later, the player unlocks two additional upgrades - Super Slash and Super Dash. Super Slash allows the player to hold the attack button to charge an attack that does an impressive amount of damage that ignores shields. Super Dash similarly allows the player to hold the dash button to charge up a dash that both slightly damages as well as momentarily stuns enemies.
@@ -51,24 +75,36 @@ The goal was to make the player feel powerful from the start, but give them more
 
 ## Enemies
 
-![Slime](/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Slime.gif)
 ### Slime
+
+<div style="text-align:center">
+    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Slime.gif" alt="Slime" width="128">
+</div>
+
 The Slime is the most basic enemy of the bunch. It moves quickly, deals a very small amount of melee damage, and on its own, is barely a threat. 2 standard hits can eliminate this weak enemy. In a group, they can quickly overcome the player though.
 
-![Skeleton](/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Skeleton.gif)
 ### Skeleton
+<div style="text-align:center">
+    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Skeleton.gif" alt="Skeleton" width="128"> 
+</div>
 The Skeleton is functionally the same as the slime, however, it deals more damage and has more health. These traits make it a bigger threat to the player than the slime, but they become a pretty minor threat after the first few. This is intentional.
 
-![Knight](/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Knight.gif)
 ### Knight
+<div style="text-align:center">
+    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Knight.gif" alt="Skeleton" width="256"> 
+</div>
 The Knight, unlike the Slime or Skeleton, is a bit more intelligent. Since the knight has a shield, it will block all attacks from the front. The player has to methodically approach this enemy, either waiting for or creating an opening to dash behind it and get a few hits in. This enemy hits very hard, so it is important for the player to keep on their toes. Fortunately, it moves pretty slow and the attacks have pretty clear indicators they are coming.
 
-![Wizard](/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Wizard.gif)
 ### Wizard
+<div style="text-align:center">
+    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Wizard.gif" alt="Skeleton" width="256"> 
+</div>
 The wizard is the most unique enemy and perhaps the hardest. It has a ranged attack set, but rather than firing projectiles, the Wizard spawn hazardous tile patterns around the player. The player has a relatively small window to decide if they should stay put, move a bit, or dash far away. Rather than walk around, this enemy teleports from position to position, this can make it difficult to eliminate this enemy quickly. This enemy exists to disrupt the more predictable melee enemies.
 
-![Boss Knight](/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_BossKnight.gif)
 ### Boss Knight
+<div style="text-align:center">
+    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_BossKnight.gif" alt="Skeleton" width="256"> 
+</div>
 The Boss Knight is in appearance a palette swap of the regular Knight, however, it has a few different tricks up its sleeve. Unsurprisingly it has the largest health pool of all enemies and does the heaviest damage. It possesses melee attacks inherited from the Slime, Skeleton, and Knight, as well as the Knights shield blocking trait. It can also execute ranged attacks inherited from the Wizard and teleport away if it gets hit too many times in a row. This boss enemy also has the unique ability to spawn grunt level enemies around it to distract the player.
 
 All of these traits make this enemy very dangerous. These different traits are introduced in 3 different states based on the boss’s health. Most players will fail at least the first time, but since death is not meant to be punishing, the player can learn the patterns fairly quickly and defeating it is a very rewarding event.

@@ -3,6 +3,15 @@ title: Notline Miami
 image: '/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_Icon2.png'
 ---
 
+<div style="text-align:center">
+    <a href="https://drive.google.com/uc?authuser=0&id=1oPSaVtlgl8mOu4-EixPoUfY-QskGAk8l&export=download" target="_blank" class="button button--primary">Download</a>
+    <a href="https://github.com/TheNickOfTime/Notline-Miami" target="_blank" class="button button--primary">Source</a>
+</div>
+
+<br>
+
+<p><iframe src="https://www.youtube.com/embed/NvbuN30eAcA" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
 # Introduction
 
 Notline Miami is a game prototype I made as a case study – my goal was to attempt to replicate various aspects of the indie hit, Hotline Miami.
@@ -11,7 +20,14 @@ I completed this project over the course of a week using the Unity Engine and C#
 
 This game took 1st place prize at Academy of Art University’s Spring Show for Game Prototype in 2018.
 
-<br>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot01.png" loading="lazy" alt="Car">
+    <!-- <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot02.png" loading="lazy" alt="Car"> -->
+    <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot03.png" loading="lazy" alt="Car">
+    <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot04.png" loading="lazy" alt="Car">
+  </div>
+</div>
 
 # Summary
 
@@ -28,13 +44,20 @@ I decided to call this project Notline Miami – I guess I like to think I can b
 
 This ended up being one of those projects that I bit off more than I could chew, but I did a few late nights and got it to a state that I was happy with.
 
-<br>
-
 # Highlights
-![Menu](/assets/portfolio_notline_miami/NotlineMiami_Clip01.gif)
+
+## Menu
+<div style="text-align:center">
+    <img src="/assets/portfolio_notline_miami/NotlineMiami_Clip02.gif" alt="Menu"> 
+</div>
+<br>
 
 On the UI side of things, one thing I was pretty proud of was my Main Menu. Since this was going to be the first thing people would see when starting the game, I wanted it to be just as eye catching as it is in the actual Hotline Miami. That being said, while most of this prototype is best described as inspired by Hotline Miami, this main menu is the only part that I could say is a shameless rip-off. Despite that, I have to say that it was a great learning experience. A lot went into the making of Hotline Miami's UI and I never truly realized until I tried to do it myself.
 
-![Combat](/assets/portfolio_notline_miami/NotlineMiami_Clip02.gif)
+## Combat
+<div style="text-align:center">
+    <img src="/assets/portfolio_notline_miami/NotlineMiami_Clip01.gif" alt="Combat"> 
+</div>
+<br>
 
 One thing that would be essential in making this prototype feel convincing would be creating some high tension moments. Some of the best parts of Hotline Miami are when you go into a room, guns blazing, frantically moving around trying not to get shot while trying to aim correctly. I tuned the player controls to support this chaotic movement, and I tuned the AI to be a little more punishing than it should be - they hit hard. The result is that going into a room with a few enemies in it is always a gamble! One thing that I learned during this process is how hard it is to balance too easy vs. too hard - there's a fine line.

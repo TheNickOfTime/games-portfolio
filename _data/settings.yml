@@ -10,12 +10,16 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Projects'
+    - title: 'Portfolio'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Archive'
+      url: '/archive/'
+    - title: 'Resume'
+      url: '/resume/'
+    - title: 'About'
+      url: '/about/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     # - title: 'Pages'
     #   submenu:
     #   - url: '/about/'
@@ -49,7 +53,14 @@ social:
 # Hero Settings
 hero:
   hero__title: Nick Cunningham
-  hero__description: Technical Designer
+  hero__description: >+
+    Hey I’m Nick! I am a game designer currently based in the Los Angeles Area. I like to laugh and make bad jokes. Sarcasm is an art, and puns make me cringe. Everything is better when its funny – that’s sort of my motto.
+    <br>
+    <br>
+    With that being said, I love to approach design problems with a sense of humor and a radically creative mindset. There are always many ways to approach a problem, but I like to find the best and most fun way. Taking a wild idea and breaking it down into something that can work is an amazing process. It’s even better when I am working with a team that is just as passionate as I am. Nothing is better than bouncing around ideas and solutions to make the coolest thing possible.
+    <br>
+    <br>
+    I guess at the end of the day, though, nothing is actually better than a good night’s sleep. I don’t think I do that very often though!
   hero__image: '/assets/personal/Profile_Square.jpg'
 
 
@@ -130,18 +141,14 @@ gallery:
 # Footer Navigation Settings
 footer_menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'Projects'
+    - title: 'Portfolio'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - url: '/about/'
-      title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+    - title: 'Archive'
+      url: '/archive/'
+    - title: 'Resume'
+      url: '/resume/'
+    - title: 'About'
+      url: '/about/'
 
 
 #-------------------------------
