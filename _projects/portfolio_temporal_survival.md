@@ -3,18 +3,19 @@ title: Temporal Survival
 image: '/assets/portfolio_temporal_survival/TemporalSurvival_Thumbnail.jpg'
 ---
 
+<div style="text-align:center">
+    <a href="https://github.com/TheNickOfTime/NDQAGameJam2021/releases/download/v1.1/TemporalSurvival_1.1.zip" target="_blank" class="button button--primary">Download</a>
+    <a href="https://github.com/TheNickOfTime/NDQAGameJam2021" target="_blank" class="button button--primary">Source</a>
+</div>
+
+<br>
+
+<p><iframe src="https://www.youtube.com/embed/xZrxQmIr9OM" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+
 ## Introduction
 Temporal Survival was the product of a game jam that was put on within the QA department at Naughty Dog in 2021. My team consisted of myself as the game designer, Sami Hagerman as the artist, Phillip Menses as the audio designer, and Aiden Thurston as our producer & design support person.
 
 The prompt for this project was “Time” – something must have been in the water since nearly everyone on the team gravitated towards a sci-fi theme with mechanics centered around concepts of relativity, aging rapidly, and using technology to combat this.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//xZrxQmIr9OM' frameborder='0' allowfullscreen></iframe></div>
-
-<br>
-
------
-
-<br>
 
 ## Overview
 As the game starts the player is presented with a brief log – it explains that the player has crash landed on a planet where time moves differently, due to temporal energy that is emitted by crystals covering the surface. The player is presented with a difficult decision to balance – the crystals recharge the player’s suit and protect them from rapidly aging, but the player must also research the crystals to more permanently survive on the planet.
@@ -31,4 +32,5 @@ The gameplay loop looks like this:
 5. Once the player successfully completes research, the player reaches the win condition. If the player fails to manage what they use their crystals for and ages too much, the player dies at the ripe age of 80-something and it is game over!
 
 ### Mining Minigame
+<p><iframe src="https://www.youtube.com/embed/U9FI2VW2p6U" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 The minigame is my favorite aspect of this jam. When this project was made, the concepts and use cases for the Dual Sense 5’s adaptive triggers were fresh on my mind. Unfortunately the Unreal Engine does not support Playstation Controllers out of the box so I made do with an Xbox controller and modulating the frequency of the haptic feedback.

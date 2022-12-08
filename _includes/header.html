@@ -4,8 +4,8 @@
     <div class="row">
       <div class="header__inner col col-12">
 
-        <div class="logo">
-          <a class="logo__link" href="{{ site.baseurl }}/">
+        <div class="logo" style="flex-grow: 1;">
+          <a class="logo__link" href="{{ site.baseurl }}">
           {% if site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
@@ -14,7 +14,7 @@
           </a>
         </div>
 
-        <nav class="main-nav">
+        <nav class="main-nav" style="flex-grow: 1;">
           <div class="main-nav__box">
             <div class="nav__icon-close">
               <i class="ion ion-md-close"></i>
@@ -42,7 +42,7 @@
           </div>
         </nav>
 
-        <div class="nav-button">
+        <div class="nav-button" style="flex-grow: 1; justify-content: right;">
           <i class="nav__icon icon__menu ion ion-md-menu"></i>
 
           {% if site.data.settings.color_scheme == "auto" %}
