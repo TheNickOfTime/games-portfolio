@@ -11,7 +11,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 menu__settings:
   menu__items:
     - title: 'Portfolio'
-      url: '/projects/'
+      url: '/'
     - title: 'Archive'
       url: '/archive/'
     - title: 'Resume'
