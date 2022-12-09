@@ -14,6 +14,6 @@ description:
     src='https://drive.google.com/file/d/1jlCfEvwqWrD_owU41McWIrd7-_bgEedXCWZNyCOod7I/preview'
     frameBorder="0"
     scrolling="auto"
-    height="100%"
-    width="100%"
+    height="110%"
+    width="80%"
 ></iframe>

@@ -5,7 +5,7 @@
       <div class="header__inner col col-12">
 
         <div class="logo" style="flex-grow: 1;">
-          <a class="logo__link" href="{{ site.baseurl }}">
+          <a class="logo__link" href="{{ site.baseurl }}/">
           {% if site.data.settings.logo %}
             <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
@@ -55,9 +55,9 @@
             <div class="toggle-sun" title="Light mode"><i class="ion ion-ios-sunny"></i></div>
           </div>
           {% elsif site.data.settings.color_scheme == "dark" %}
-          <div class="toggle-theme theme-dark">
+          <!-- <div class="toggle-theme theme-dark">
             <div class="toggle-moon" title="Dark mode"><i class="ion ion-ios-moon"></i></div>
-          </div>
+          </div> -->
           {% else %}
           <div class="toggle-theme toggle-theme-js">
             <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
