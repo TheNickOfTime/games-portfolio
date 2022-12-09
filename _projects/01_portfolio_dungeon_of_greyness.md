@@ -13,7 +13,7 @@ image: '/assets/portfolio_dungeon_of_greyness/CombatDesign_Thumbnail.png'
 <p><iframe src="https://www.youtube.com/embed/KhqVn7GAo8Q" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
 # Introduction
-“Dungeon of Greyness” is a game prototype, with a focus on combat design, that I built from the grround up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week.
+“Dungeon of Greyness” is a game prototype, with a focus on combat design, that I built from the ground up over the course of a semester. My goal for this project was to focus on the various nuances of what makes combat feel engaging and fun, and flesh these elements out, week-by-week.
 
 Using the Unity Engine, I designed and scripted (C#) everything in this project. This extends from the levels, the core gameplay, player combat & enemy functionality, to all the underlying systems that make the game work. Virtually all art and music was borrowed/copied in order to focus on the mechanical aspects of the game.
 
