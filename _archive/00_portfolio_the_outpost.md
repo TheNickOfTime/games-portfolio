@@ -14,10 +14,8 @@ The Outpost is a comprehensive, yet adaptable, Game Design Document for a unique
 
 # GDD
 
-***If you cannot see the embedded document below, please open this page in an incognito tab. Your work google docs permissions don't allow you to view external content.***
-
 <iframe
-    src='/assets/portfolio_the_outpost/Outpost_GDD.pdf'
+    src='https://docs.google.com/gview?embedded=true&url=https://nickecunningham.com/assets/portfolio_the_outpost/Outpost_GDD.pdf'
     frameBorder="0"
     scrolling="auto"
     height="110%"
