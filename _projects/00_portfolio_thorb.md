@@ -2,7 +2,6 @@
 title: Thorb
 image: '/assets/portfolio_thorb/thorb_thumbnail.jpg'
 ---
-[](/assets/portfolio_thorb/thorb_thumbnail.jpg)
 
 <div style="text-align:center">
     <a href="https://github.com/TheNickOfTime/thorb/releases/download/v1.0/thorb_win64_v1.0.zip" target="_blank" class="button button--primary">Download</a>

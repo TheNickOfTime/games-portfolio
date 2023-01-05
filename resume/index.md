@@ -5,13 +5,13 @@ description:
 ---
 
 <div style="text-align:center">
-    <a href="https://docs.google.com/document/export?format=pdf&id=1jlCfEvwqWrD_owU41McWIrd7-_bgEedXCWZNyCOod7I" target="_blank" class="button button--primary">Download .pdf</a>
+    <a href="/assets/personal/NickCunningham_Resume.pdf" target="_blank" download="NickCunningham_Resume" class="button button--primary">Download .pdf</a>
 </div>
 
 <br>
 
 <iframe
-    src='https://drive.google.com/file/d/1jlCfEvwqWrD_owU41McWIrd7-_bgEedXCWZNyCOod7I/preview'
+    src='/assets/personal/NickCunningham_Resume.pdf'
     frameBorder="0"
     scrolling="auto"
     height="110%"
