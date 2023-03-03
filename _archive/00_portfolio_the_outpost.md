@@ -1,5 +1,6 @@
 ---
 title: The Outpost
+permalink: /archive/the-outpost
 image: '/assets/portfolio_the_outpost/Outpost_Thumbnail.jpg'
 layout: project
 ---

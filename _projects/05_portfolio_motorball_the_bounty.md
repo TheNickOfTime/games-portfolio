@@ -1,5 +1,6 @@
 ---
 title: Motorball - The Bounty
+permalink: /portfolio/motorball
 image: '/assets/portfolio_motorball_the_bounty/Motorball_Thumbnail.jpg'
 ---
 

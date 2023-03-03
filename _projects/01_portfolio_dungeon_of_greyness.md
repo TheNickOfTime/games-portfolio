@@ -1,5 +1,6 @@
 ---
 title: Dungeon of Greyness
+permalink: /portfolio/dungeon-of-greyness
 image: '/assets/portfolio_dungeon_of_greyness/CombatDesign_Thumbnail.png'
 ---
 

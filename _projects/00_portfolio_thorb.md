@@ -1,5 +1,6 @@
 ---
 title: Thorb
+permalink: /portfolio/thorb
 image: '/assets/portfolio_thorb/thorb_thumbnail.jpg'
 ---
 
