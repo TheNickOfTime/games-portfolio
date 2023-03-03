@@ -1,5 +1,6 @@
 ---
 title: Temporal Survival
+permalink: /portfolio/temporal-survival
 image: '/assets/portfolio_temporal_survival/TemporalSurvival_Thumbnail.jpg'
 ---
 

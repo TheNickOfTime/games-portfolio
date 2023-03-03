@@ -1,6 +1,8 @@
 ---
 title: Notline Miami
+permalink: /archive/notline-miami
 image: '/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_Icon2.png'
+layout: project
 ---
 
 <div style="text-align:center">
