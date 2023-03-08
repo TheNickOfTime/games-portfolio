@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About
+title: Nick Cunningham - About
+subtitle: About
 permalink: /about/
 footer-hero: false
 ---
