@@ -23,7 +23,7 @@
       
               <div class="col col-8 col-d-12">
                 <div class="footer__author">
-                  {% if page.title != "About" %}
+                  {% if !page.footer_hero %}
                   <div class="footer__author-avatar">
                     <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
                   </div>

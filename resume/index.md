@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Resume
+title: Nick Cunningham - Resume
+subtitle: Resume
 description:
 ---
 

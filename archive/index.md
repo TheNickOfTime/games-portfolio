@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Archive
+title: Nick Cunningham - Archive
+subtitle: Archive
 description:
 ---
 
 <div class="container">
   <div class="page-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.projects__settings.projects__title }}{% endif %}</h1>
+    <h1 class="page-title">{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.data.settings.projects__settings.projects__title }}{% endif %}</h1>
     {% if page.description %}
       <p class="page-description">{{ page.description }}</p>
     {% else site.data.settings.projects__settings.projects__description %}
