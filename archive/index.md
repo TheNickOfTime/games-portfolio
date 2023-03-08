@@ -15,10 +15,10 @@ description:
   </div>
 </div>
 
-<div style="text-align:center; font-family: $heading-font-family;
+<!-- <div style="text-align:center; font-family: $heading-font-family;
   font-size: 40px;">
     This page is currently under construction.
-</div>
+</div> -->
 
 <div class="container animate">
   <article class="page">
