@@ -1,6 +1,6 @@
 ---
 title: Gravity Box
-permalink: /portfolio/gravity-box
+slug: gravity-box
 image: '/assets/portfolio_gravity_box/GravityBox_Thumbnail.png'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Motorball - The Bounty
-permalink: /portfolio/motorball
+slug: motorball
 image: '/assets/portfolio_motorball_the_bounty/Motorball_Thumbnail.jpg'
 ---
 
@@ -20,11 +20,11 @@ This project was created in the Unity Engine over the course of about a week. On
 
 <div class="gallery-box">
   <div class="gallery" style="display=flex; align-items=center">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(1).jpg" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(2).jpg" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(3).jpg" loading="lazy" alt="Car">
-    <!-- <img src="/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(4).jpg" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(5).jpg" loading="lazy" alt="Car"> -->
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(1).jpg" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(2).jpg" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(3).jpg" loading="lazy" alt="Car">
+    <!-- <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(4).jpg" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Screenshot%20(5).jpg" loading="lazy" alt="Car"> -->
   </div>
 </div>
 
@@ -47,7 +47,7 @@ Motorball: The Bounty, as it became, represents a vertical slice of a First Pers
 
 ## Train
 <div style="text-align:center">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Gif_Train.gif" alt="Train"> 
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Gif_Train.gif" alt="Train"> 
 </div>
 <br>
 
@@ -55,7 +55,7 @@ The game begins with the player entering the area around the motorball stadium o
 
 ## Life
 <div style="text-align:center">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Gif_Life.gif" alt="Life"> 
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Gif_Life.gif" alt="Life"> 
 </div>
 <br>
 
@@ -63,7 +63,7 @@ One of the things we wanted to accomplish with this prototype is to make the wor
 
 ## Scanner
 <div style="text-align:center">
-    <img src="/assets/portfolio_motorball_the_bounty/Motorball_Gif_Scanner.gif" alt="Scanner"> 
+    <img src="{{site.baseurl}}/assets/portfolio_motorball_the_bounty/Motorball_Gif_Scanner.gif" alt="Scanner"> 
 </div>
 <br>
 

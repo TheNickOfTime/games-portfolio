@@ -1,6 +1,6 @@
 ---
 title: A Thief's Tale
-permalink: /portfolio/thief
+slug: thief
 image: '/assets/thief/ThiefTale_Thumbail.jpg'
 layout: project
 ---

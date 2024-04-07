@@ -1,6 +1,6 @@
 ---
 title: Notline Miami
-permalink: /portfolio/notline-miami
+slug: notline-miami
 image: '/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_Icon2.png'
 layout: project
 ---
@@ -24,10 +24,10 @@ This game took 1st place prize at Academy of Art University’s Spring Show for 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot01.png" loading="lazy" alt="Car">
-    <!-- <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot02.png" loading="lazy" alt="Car"> -->
-    <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot03.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot04.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot01.png" loading="lazy" alt="Car">
+    <!-- <img src="{{site.baseurl}}/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot02.png" loading="lazy" alt="Car"> -->
+    <img src="{{site.baseurl}}/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot03.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_notline_miami/Images/NickCunningham_NotlineMiami_screenshot04.png" loading="lazy" alt="Car">
   </div>
 </div>
 
@@ -50,7 +50,7 @@ This ended up being one of those projects that I bit off more than I could chew,
 
 ## Menu
 <div style="text-align:center">
-    <img src="/assets/portfolio_notline_miami/NotlineMiami_Clip02.gif" alt="Menu"> 
+    <img src="{{site.baseurl}}/assets/portfolio_notline_miami/NotlineMiami_Clip02.gif" alt="Menu"> 
 </div>
 <br>
 
@@ -58,7 +58,7 @@ On the UI side of things, one thing I was pretty proud of was my Main Menu. Sinc
 
 ## Combat
 <div style="text-align:center">
-    <img src="/assets/portfolio_notline_miami/NotlineMiami_Clip01.gif" alt="Combat"> 
+    <img src="{{site.baseurl}}/assets/portfolio_notline_miami/NotlineMiami_Clip01.gif" alt="Combat"> 
 </div>
 <br>
 

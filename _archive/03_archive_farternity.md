@@ -1,6 +1,6 @@
 ---
 title: Farternity
-permalink: /archive/farternity
+slug: farternity
 image: '/assets/farternity/Fart-ernity_Thumbnail.jpg'
 layout: project
 ---

@@ -25,7 +25,7 @@
                 <div class="footer__author">
                   {% if page.title != "Nick Cunningham - About" %}
                   <div class="footer__author-avatar">
-                    <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
+                    <img class="lazy" data-src="{{site.data.settings.author.author__avatar | prepend:site.baseurl}}" alt="{{site.data.settings.author.author__name}}">
                   </div>
                   {% endif %}
                   <div class="footer__author-info">

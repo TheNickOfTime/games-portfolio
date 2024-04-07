@@ -1,6 +1,6 @@
 ---
 title: Dungeon of Greyness
-permalink: /portfolio/dungeon-of-greyness
+slug: dungeon-of-greyness
 image: '/assets/portfolio_dungeon_of_greyness/CombatDesign_Thumbnail.png'
 ---
 
@@ -22,17 +22,17 @@ Using the Unity Engine, I designed and scripted (C#) everything in this project.
 
 <div class="gallery-box">
   <div class="gallery">
-    <!-- <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_01.png" loading="lazy" alt="Car"> -->
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_02.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_03.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_04.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_05.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_06.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_07.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_08.png" loading="lazy" alt="Car">
-    <!-- <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_09.png" loading="lazy" alt="Car"> -->
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_10.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_11.png" loading="lazy" alt="Car">
+    <!-- <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_01.png" loading="lazy" alt="Car"> -->
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_02.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_03.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_04.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_05.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_06.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_07.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_08.png" loading="lazy" alt="Car">
+    <!-- <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_09.png" loading="lazy" alt="Car"> -->
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_10.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/Screenshots/CombatDesign_Screenshot_11.png" loading="lazy" alt="Car">
   </div>
 </div>
 
@@ -63,7 +63,7 @@ Overall this project was a fantastic experience, both personally and educational
 
 ## Player
 <div style="text-align:center">
-    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_PlayerMovement.gif" alt="Player"> 
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_PlayerMovement.gif" alt="Player"> 
 </div>
 <br>
 The inspiration for the player combat of this game was Hyper Light Drifter. This is pretty obvious looking at the character because I straight up hand copied each frame of each animation from some gameplay footage I took of HLD. I wanted to stay away from this initially, but unfortunately, I found it impossible to find a top-down game sprite-set that had the dynamic and powerful feeling that the animations of HLD have.
@@ -79,32 +79,32 @@ The goal was to make the player feel powerful from the start, but give them more
 ### Slime
 
 <div style="text-align:center">
-    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Slime.gif" alt="Slime" width="128">
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Slime.gif" alt="Slime" width="128">
 </div>
 
 The Slime is the most basic enemy of the bunch. It moves quickly, deals a very small amount of melee damage, and on its own, is barely a threat. 2 standard hits can eliminate this weak enemy. In a group, they can quickly overcome the player though.
 
 ### Skeleton
 <div style="text-align:center">
-    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Skeleton.gif" alt="Skeleton" width="128"> 
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Skeleton.gif" alt="Skeleton" width="128"> 
 </div>
 The Skeleton is functionally the same as the slime, however, it deals more damage and has more health. These traits make it a bigger threat to the player than the slime, but they become a pretty minor threat after the first few. This is intentional.
 
 ### Knight
 <div style="text-align:center">
-    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Knight.gif" alt="Skeleton" width="256"> 
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Knight.gif" alt="Skeleton" width="256"> 
 </div>
 The Knight, unlike the Slime or Skeleton, is a bit more intelligent. Since the knight has a shield, it will block all attacks from the front. The player has to methodically approach this enemy, either waiting for or creating an opening to dash behind it and get a few hits in. This enemy hits very hard, so it is important for the player to keep on their toes. Fortunately, it moves pretty slow and the attacks have pretty clear indicators they are coming.
 
 ### Wizard
 <div style="text-align:center">
-    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Wizard.gif" alt="Skeleton" width="256"> 
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_Wizard.gif" alt="Skeleton" width="256"> 
 </div>
 The wizard is the most unique enemy and perhaps the hardest. It has a ranged attack set, but rather than firing projectiles, the Wizard spawn hazardous tile patterns around the player. The player has a relatively small window to decide if they should stay put, move a bit, or dash far away. Rather than walk around, this enemy teleports from position to position, this can make it difficult to eliminate this enemy quickly. This enemy exists to disrupt the more predictable melee enemies.
 
 ### Boss Knight
 <div style="text-align:center">
-    <img src="/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_BossKnight.gif" alt="Skeleton" width="256"> 
+    <img src="{{site.baseurl}}/assets/portfolio_dungeon_of_greyness/GIFs/CombatDesign_BossKnight.gif" alt="Skeleton" width="256"> 
 </div>
 The Boss Knight is in appearance a palette swap of the regular Knight, however, it has a few different tricks up its sleeve. Unsurprisingly it has the largest health pool of all enemies and does the heaviest damage. It possesses melee attacks inherited from the Slime, Skeleton, and Knight, as well as the Knights shield blocking trait. It can also execute ranged attacks inherited from the Wizard and teleport away if it gets hit too many times in a row. This boss enemy also has the unique ability to spawn grunt level enemies around it to distract the player.
 
