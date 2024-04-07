@@ -34,11 +34,11 @@ description:
     {% for project in site.archive %}
       <article class="project col col-4 col-d-6 col-t-12">
         <div class="project__content">
-          <a href="{{ project.url }}" class="project__image">
-            <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+          <a href="{{ project.url | prepend:site.baseurl }}" class="project__image">
+            <img class="lazy" data-src="{{ project.image | prepend:site.baseurl }}" alt="{{ project.title }}">
           </a>
           <div class="project__info">
-            <h3 class="project__title"><a href="{{ project.url }}">{{ project.title }}</a></h3>
+            <h3 class="project__title"><a href="{{ project.url | prepend:site.baseurl }}">{{ project.title }}</a></h3>
             {% if project.subtitle %}
             <div class="project__subtitle">{{ project.subtitle }}</div>
             {% endif %}

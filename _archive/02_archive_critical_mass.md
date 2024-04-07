@@ -1,6 +1,6 @@
 ---
 title: Critical Mass
-permalink: /archive/critical_mass
+slug: critical_mass
 image: '/assets/critical_mass/NickCunningham_CriticalMass_Icon.jpg'
 layout: project
 ---
@@ -36,14 +36,14 @@ This project was actually very fun to work on. Because the scope of it was relat
 
 # Highlights
 
-![Clip 01](/assets/critical_mass/CriticalMass_Clip01.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Clip 01]({{site.baseurl}}/assets/critical_mass/CriticalMass_Clip01.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Since I was removing the shooting aspect of the top-down shooter genre, I needed a different way for the player to interact with the world. Since the focus of this game was shifted away from violence, I thought a good alternative to a traditional weapon would be tool to help the player collect more space-bits. To match the theme, the player controls a solar flare with their mouse pointer that acts as a collection net. While the execution of it looks much more tentacl-ey than solar flarish, it became a very engaging aspect of the gameplay.
 
-![Clip 02](/assets/critical_mass/CriticalMass_Clip02.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Clip 02]({{site.baseurl}}/assets/critical_mass/CriticalMass_Clip02.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Aside from being a simple collection tool, the flare is used as a defense mechanism against larger objects that are pulled towards the player. While I wanted to remove the violent aspects of the top-down shooter genre, I wanted to retain low-risk threats to vary the gameplay. If the larger objects hit the player, they lose just a small amount of their mass, nothing too serious, though you don't wanna get hit multiple times in a row. Fortunately they are pretty easy to hit, and the reward for hitting them with your solar flare is a nice little kaboom and a healthy deposit of space-bits to be eaten up.
 
-![Clip 03](/assets/critical_mass/CriticalMass_Clip03.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Clip 03]({{site.baseurl}}/assets/critical_mass/CriticalMass_Clip03.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 One of the things I wanted to feel rewarding was how the player's progress in collecting space-bits is represented. The first way I did this was by gradually increasing the player's size as more matter is collected. I scaled it so the player grows more rapidly at the start, so the impact is felt immediately. To compensate for the slower growth later in the game, I thought it would be interesting to have the planet's color change over time as well - not to mention that stars actually change color at different points in their lifecycle. I also wanted the player to feel the impact of their size in game too - so as the player grows, their gravitational pull radius inscreases too, allowing the player to collect more space-bits that are nearby.

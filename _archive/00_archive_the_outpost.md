@@ -1,12 +1,12 @@
 ---
 title: The Outpost
-permalink: /archive/the-outpost
+slug: the-outpost
 image: '/assets/portfolio_the_outpost/Outpost_Thumbnail.jpg'
 layout: project
 ---
 
 <div style="text-align:center">
-    <a href="/assets/portfolio_the_outpost/Outpost_GDD.pdf" target="_blank" download="TheOutpost_GDD" class="button button--primary">Download .pdf</a>
+    <a href="{{site.baseurl}}/assets/portfolio_the_outpost/Outpost_GDD.pdf" target="_blank" download="TheOutpost_GDD" class="button button--primary">Download .pdf</a>
 </div>
 
 # Introduction
@@ -16,7 +16,7 @@ The Outpost is a comprehensive, yet adaptable, Game Design Document for a unique
 # GDD
 
 <iframe
-    src='https://docs.google.com/gview?embedded=true&url=https://nickecunningham.com/assets/portfolio_the_outpost/Outpost_GDD.pdf'
+    src='https://docs.google.com/gview?embedded=true&url=https://nickcunningh.am{{site.baseurl}}/assets/portfolio_the_outpost/Outpost_GDD.pdf'
     frameBorder="0"
     scrolling="auto"
     height="110%"

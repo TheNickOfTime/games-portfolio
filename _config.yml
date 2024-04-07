@@ -1,7 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nickecunningham.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: nickcunningh.am
+url: "https://nickcunningh.am" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/games-portfolio" # the subpath of your site, e.g. /blog
 
 
 #-------------------------------
@@ -22,9 +23,9 @@ collections:
   pages:
     output: true
     permalink: /:name
-  posts:
-    output: true
-    permalink: /blog/:slug
+  # posts:
+  #   output: true
+  #   permalink: /blog/:slug
   projects:
     output: true
     permalink: /project/:slug
@@ -43,11 +44,11 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+  # - scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: "post"
   - scope:
       path: ""
       type: "projects"

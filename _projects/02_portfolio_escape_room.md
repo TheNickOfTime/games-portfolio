@@ -1,6 +1,6 @@
 ---
 title: Escape Room
-permalink: /portfolio/escape-room
+slug: escape-room
 image: '/assets/portfolio_escape_room/thumbnail.png'
 ---
 
@@ -25,7 +25,7 @@ I started with some pretty specific inspirations with this project. The most obv
 # Characters
 
 ## Shift
-![Character Shift](/assets/portfolio_escape_room/character_shift.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Character Shift]({{site.baseurl}}/assets/portfolio_escape_room/character_shift.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 One of the characters is a "Shape Shifter." It has three states:
 1. Normal - The default state
@@ -35,14 +35,14 @@ One of the characters is a "Shape Shifter." It has three states:
 Additionally this character has the ability to pick up certain interactable objects - like a weighted cube.
 
 ## Divide
-![Chracter Divide](/assets/portfolio_escape_room/character_divide.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Chracter Divide]({{site.baseurl}}/assets/portfolio_escape_room/character_divide.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 The other character has the ability to split in two. Uniquely the characters mass is relatively maintained when dividing, and the subsequent twins are much shorter. The player directly controls the primary twin, and commands the secondary twin via a ping/waypoint system.
 
 Additionally when splitting, the primary twin is located on top of the secondary twin. Since neither character can jump this presents the player with a rare opportunity to travel vertically.
 
 ## Together
-![Together](/assets/portfolio_escape_room/character_together.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Together]({{site.baseurl}}/assets/portfolio_escape_room/character_together.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 With these unique characteristics of both characters, each one ends up playing specific roles within the environment. The players can even literally piggy-back on each other's mechanics. For example, the Shift Character can become squashed, and the Divide Character can climb on top to be carried to greater heights!
 
@@ -57,12 +57,12 @@ I wanted making levels to be pretty straight forward, almost drag and drop w/ no
 In this prototype there are two types of triggers - Buttons & Lasers. Each trigger has a power-line you can attach to it so it is clear what it will effect in the world.
 
 ### Buttons
-![Button](/assets/portfolio_escape_room/trigger_button_door.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Button]({{site.baseurl}}/assets/portfolio_escape_room/trigger_button_door.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 These are pretty straight-forward - you step on it (or place another object with mass) and it does things!
 
 ### Lasers
-![Laser](/assets/portfolio_escape_room/trigger_laser_platform.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Laser]({{site.baseurl}}/assets/portfolio_escape_room/trigger_laser_platform.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Lasers operate physically in the world - if something is in the way, the laser won't be able to reach it's destination.
 
@@ -71,16 +71,16 @@ Lasers operate physically in the world - if something is in the way, the laser w
 These are what are on the other end of triggers. Well, they can be - you can also have them operate independently if needed! These are what do things.
 
 ### Platforms
-![Platform](../assets/portfolio_escape_room/triggerable_platform.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Platform](..{{site.baseurl}}/assets/portfolio_escape_room/triggerable_platform.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Since neither player can jump, introducing verticality via moving platforms was necessary. Additionally these can be set up to move horizontally as well.
 
 ### Doors
-![Door](/assets/portfolio_escape_room/trigger_button_door.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Door]({{site.baseurl}}/assets/portfolio_escape_room/trigger_button_door.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 What more is there to say, its a door!
 
 ### Lasers
-![Laser](/assets/portfolio_escape_room/triggerable_laser.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Laser]({{site.baseurl}}/assets/portfolio_escape_room/triggerable_laser.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 The on/off state of a laser is a triggerable!

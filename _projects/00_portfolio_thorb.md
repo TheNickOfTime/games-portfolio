@@ -1,6 +1,6 @@
 ---
 title: Thorb
-permalink: /portfolio/thorb
+slug: thorb
 image: '/assets/portfolio_thorb/thorb_thumbnail.jpg'
 ---
 
@@ -22,15 +22,15 @@ This was a fantastic experience that allowed everyone that participated to work 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_00.jpg" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_01.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_02.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_03.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_04.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_05.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_06.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_07.png" loading="lazy" alt="Car">
-    <img src="/assets/portfolio_thorb/thorb_screenshot_08.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_00.jpg" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_01.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_02.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_03.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_04.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_05.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_06.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_07.png" loading="lazy" alt="Car">
+    <img src="{{site.baseurl}}/assets/portfolio_thorb/thorb_screenshot_08.png" loading="lazy" alt="Car">
   </div>
 </div>
 

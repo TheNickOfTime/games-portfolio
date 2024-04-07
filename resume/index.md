@@ -12,7 +12,7 @@ description:
 <br>
 
 <iframe
-    src='https://docs.google.com/gview?embedded=true&url=https://nickecunningham.com/assets/personal/NickCunningham_Resume.pdf'
+    src='https://docs.google.com/gview?embedded=true&url=https://nickcunningh.am{{site.baseurl}}/assets/personal/NickCunningham_Resume.pdf'
     frameBorder="0"
     scrolling="auto"
     height="110%"

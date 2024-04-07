@@ -1,7 +1,8 @@
 ---
 title: Temporal Survival
-permalink: /archive/temporal-survival
+slug: temporal-survival
 image: '/assets/portfolio_temporal_survival/TemporalSurvival_Thumbnail.jpg'
+layout: project
 ---
 
 <div style="text-align:center">

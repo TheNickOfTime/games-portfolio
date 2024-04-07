@@ -1,6 +1,6 @@
 ---
 title: Hexpanse
-permalink: /archive/hexpanse
+slug: hexpanse
 image: '/assets/hexpanse/NickCunningham_Hexpanse_00.jpg'
 layout: project
 ---
@@ -13,7 +13,7 @@ A mobile city-builder game for iOS and Android. This was a project I worked on i
 This is the style I guide I built for the original vision of the game. The main difference is that things became more colorful, but I ended up sticking the the stylistic vision quite closely overall.
 
 <iframe
-    src='https://docs.google.com/gview?embedded=true&url=https://nickecunningham.com/assets/hexpanse/StyleGuide.pdf'
+    src='https://docs.google.com/gview?embedded=true&url=https://nickcunningh.am{{site.baseurl}}/assets/hexpanse/StyleGuide.pdf'
     frameBorder="0"
     scrolling="auto"
     height="110%"
